@@ -1,0 +1,1033 @@
+Date,Grand_Prix,Winner,Team,Laps,RaceTime_sec,AVG_Lap_Time_sec
+2020-10-11,Eifel,LewisHamilton,Mercedes,60,5749,95.81666666666666
+2020-09-27,Russia,ValtteriBottas,Mercedes,53,5640,106.41509433962264
+2020-09-13,Tuscany,LewisHamilton,Mercedes,59,8375,141.94915254237287
+2020-09-06,Italy,PierreGasly,AlphaTauri Honda,53,6426,121.24528301886792
+2020-08-30,Belgium,LewisHamilton,Mercedes,44,5048,114.72727272727273
+2020-08-16,Spain,LewisHamilton,Mercedes,66,5505,83.4090909090909
+2020-08-09,70th Anniversary,MaxVerstappen,Red Bull Racing Honda,52,4781,91.9423076923077
+2020-08-02,Great Britain,LewisHamilton,Mercedes,52,5281,101.5576923076923
+2020-07-19,Hungary,LewisHamilton,Mercedes,70,5772,82.45714285714286
+2020-07-12,Styria,LewisHamilton,Mercedes,71,4970,70.0
+2020-07-05,Austria,ValtteriBottas,Mercedes,71,5455,76.83098591549296
+2019-12-01,Abu Dhabi,LewisHamilton,Mercedes,55,5645,102.63636363636364
+2019-11-17,Brazil,MaxVerstappen,Red Bull Racing Honda,71,5594,78.78873239436619
+2019-11-03,United States,ValtteriBottas,Mercedes,56,5635,100.625
+2019-10-27,Mexico,LewisHamilton,Mercedes,71,5808,81.80281690140845
+2019-10-13,Japan,ValtteriBottas,Mercedes,52,4906,94.34615384615384
+2019-09-29,Russia,LewisHamilton,Mercedes,53,5618,106.0
+2019-09-22,Singapore,SebastianVettel,Ferrari,61,7113,116.60655737704919
+2019-09-08,Italy,CharlesLeclerc,Ferrari,53,4526,85.39622641509433
+2019-09-01,Belgium,CharlesLeclerc,Ferrari,44,5025,114.20454545454545
+2019-08-04,Hungary,LewisHamilton,Mercedes,70,5703,81.47142857142858
+2019-07-28,Germany,MaxVerstappen,Red Bull Racing Honda,64,6271,97.984375
+2019-07-14,Great Britain,LewisHamilton,Mercedes,52,4868,93.61538461538461
+2019-06-30,Austria,MaxVerstappen,Red Bull Racing Honda,71,4921,69.30985915492958
+2019-06-23,France,LewisHamilton,Mercedes,53,5071,95.67924528301887
+2019-06-09,Canada,LewisHamilton,Mercedes,70,5347,76.38571428571429
+2019-05-26,Monaco,LewisHamilton,Mercedes,78,6208,79.58974358974359
+2019-05-12,Spain,LewisHamilton,Mercedes,66,5750,87.12121212121212
+2019-04-28,Azerbaijan,ValtteriBottas,Mercedes,51,5512,108.07843137254902
+2019-04-14,China,LewisHamilton,Mercedes,56,5526,98.67857142857143
+2019-03-31,Bahrain,LewisHamilton,Mercedes,57,5661,99.3157894736842
+2019-03-17,Australia,ValtteriBottas,Mercedes,58,5127,88.39655172413794
+2018-11-25,Abu Dhabi,LewisHamilton,Mercedes,55,5980,108.72727272727273
+2018-11-11,Brazil,LewisHamilton,Mercedes,71,5229,73.64788732394366
+2018-10-28,Mexico,MaxVerstappen,Red Bull Racing TAG Heuer,71,5908,83.21126760563381
+2018-10-21,United States,KimiRäikkönen,Ferrari,56,5658,101.03571428571429
+2018-10-07,Japan,LewisHamilton,Mercedes,53,5237,98.81132075471699
+2018-09-30,Russia,LewisHamilton,Mercedes,53,5245,98.9622641509434
+2018-09-16,Singapore,LewisHamilton,Mercedes,61,6671,109.36065573770492
+2018-09-02,Italy,LewisHamilton,Mercedes,53,4614,87.05660377358491
+2018-08-26,Belgium,SebastianVettel,Ferrari,44,5014,113.95454545454545
+2018-07-29,Hungary,LewisHamilton,Mercedes,70,5836,83.37142857142857
+2018-07-22,Germany,LewisHamilton,Mercedes,67,5549,82.82089552238806
+2018-07-08,Great Britain,SebastianVettel,Ferrari,52,5249,100.9423076923077
+2018-07-01,Austria,MaxVerstappen,Red Bull Racing TAG Heuer,71,4916,69.2394366197183
+2018-06-24,France,LewisHamilton,Mercedes,53,5411,102.09433962264151
+2018-06-10,Canada,SebastianVettel,Ferrari,68,5311,78.1029411764706
+2018-05-27,Monaco,DanielRicciardo,Red Bull Racing TAG Heuer,78,6174,79.15384615384616
+2018-05-13,Spain,LewisHamilton,Mercedes,66,5729,86.8030303030303
+2018-04-29,Azerbaijan,LewisHamilton,Mercedes,51,6224,122.03921568627452
+2018-04-15,China,DanielRicciardo,Red Bull Racing TAG Heuer,56,5736,102.42857142857143
+2018-04-08,Bahrain,SebastianVettel,Ferrari,57,5521,96.85964912280701
+2018-03-25,Australia,SebastianVettel,Ferrari,58,5373,92.63793103448276
+2017-11-26,Abu Dhabi,ValtteriBottas,Mercedes,55,5654,102.8
+2017-11-12,Brazil,SebastianVettel,Ferrari,71,5486,77.26760563380282
+2017-10-29,Mexico,MaxVerstappen,Red Bull Racing TAG Heuer,71,5786,81.49295774647888
+2017-10-22,United States,LewisHamilton,Mercedes,56,5630,100.53571428571429
+2017-10-08,Japan,LewisHamilton,Mercedes,53,5251,99.0754716981132
+2017-10-01,Malaysia,MaxVerstappen,Red Bull Racing TAG Heuer,56,5401,96.44642857142857
+2017-09-17,Singapore,LewisHamilton,Mercedes,58,7403,127.63793103448276
+2017-09-03,Italy,LewisHamilton,Mercedes,53,4532,85.50943396226415
+2017-08-27,Belgium,LewisHamilton,Mercedes,44,5082,115.5
+2017-07-30,Hungary,SebastianVettel,Ferrari,70,5986,85.51428571428572
+2017-07-16,Great Britain,LewisHamilton,Mercedes,51,4887,95.82352941176471
+2017-07-09,Austria,ValtteriBottas,Mercedes,71,4908,69.12676056338029
+2017-06-25,Azerbaijan,DanielRicciardo,Red Bull Racing TAG Heuer,51,7435,145.7843137254902
+2017-06-11,Canada,LewisHamilton,Mercedes,70,5585,79.78571428571429
+2017-05-28,Monaco,SebastianVettel,Ferrari,78,6284,80.56410256410257
+2017-05-14,Spain,LewisHamilton,Mercedes,66,5756,87.21212121212122
+2017-04-30,Russia,ValtteriBottas,Mercedes,52,5288,101.6923076923077
+2017-04-16,Bahrain,SebastianVettel,Ferrari,57,5633,98.82456140350877
+2017-04-09,China,LewisHamilton,Mercedes,56,5856,104.57142857142857
+2017-03-26,Australia,SebastianVettel,Ferrari,57,5051,88.6140350877193
+2016-11-27,Abu Dhabi,LewisHamilton,Mercedes,55,5884,106.98181818181818
+2016-11-13,Brazil,LewisHamilton,Mercedes,71,10861,152.9718309859155
+2016-10-30,Mexico,LewisHamilton,Mercedes,71,6031,84.94366197183099
+2016-10-23,United States,LewisHamilton,Mercedes,56,5892,105.21428571428571
+2016-10-09,Japan,NicoRosberg,Mercedes,53,5203,98.16981132075472
+2016-10-02,Malaysia,DanielRicciardo,Red Bull Racing TAG Heuer,56,5832,104.14285714285714
+2016-09-18,Singapore,NicoRosberg,Mercedes,61,6948,113.90163934426229
+2016-09-04,Italy,NicoRosberg,Mercedes,53,4648,87.69811320754717
+2016-08-28,Belgium,NicoRosberg,Mercedes,44,6291,142.97727272727272
+2016-07-31,Germany,LewisHamilton,Mercedes,67,5444,81.25373134328358
+2016-07-24,Hungary,LewisHamilton,Mercedes,70,6030,86.14285714285714
+2016-07-10,Great Britain,LewisHamilton,Mercedes,52,5695,109.51923076923077
+2016-07-03,Austria,LewisHamilton,Mercedes,71,5258,74.05633802816901
+2016-06-19,Europe,NicoRosberg,Mercedes,51,5572,109.25490196078431
+2016-06-12,Canada,LewisHamilton,Mercedes,70,5465,78.07142857142857
+2016-05-29,Monaco,LewisHamilton,Mercedes,78,7169,91.91025641025641
+2016-05-15,Spain,MaxVerstappen,Red Bull Racing TAG Heuer,66,6100,92.42424242424242
+2016-05-01,Russia,NicoRosberg,Mercedes,53,5561,104.9245283018868
+2016-04-17,China,NicoRosberg,Mercedes,56,5933,105.94642857142857
+2016-04-03,Bahrain,NicoRosberg,Mercedes,57,5614,98.49122807017544
+2016-03-20,Australia,NicoRosberg,Mercedes,57,6495,113.94736842105263
+2015-11-29,Abu Dhabi,NicoRosberg,Mercedes,55,5910,107.45454545454545
+2015-11-15,Brazil,NicoRosberg,Mercedes,71,5469,77.02816901408451
+2015-11-01,Mexico,NicoRosberg,Mercedes,71,6155,86.69014084507042
+2015-10-25,United States,LewisHamilton,Mercedes,56,6652,118.78571428571429
+2015-10-11,Russia,LewisHamilton,Mercedes,53,5831,110.01886792452831
+2015-09-27,Japan,LewisHamilton,Mercedes,53,5286,99.73584905660377
+2015-09-20,Singapore,SebastianVettel,Ferrari,61,7282,119.37704918032787
+2015-09-06,Italy,LewisHamilton,Mercedes,53,4680,88.30188679245283
+2015-08-23,Belgium,LewisHamilton,Mercedes,43,5020,116.74418604651163
+2015-07-26,Hungary,SebastianVettel,Ferrari,69,6369,92.30434782608695
+2015-07-05,Great Britain,LewisHamilton,Mercedes,52,5487,105.51923076923077
+2015-06-21,Austria,NicoRosberg,Mercedes,71,5416,76.28169014084507
+2015-06-07,Canada,LewisHamilton,Mercedes,70,5513,78.75714285714285
+2015-05-24,Monaco,NicoRosberg,Mercedes,78,6558,84.07692307692308
+2015-05-10,Spain,NicoRosberg,Mercedes,66,6072,92.0
+2015-04-19,Bahrain,LewisHamilton,Mercedes,57,5705,100.08771929824562
+2015-04-12,China,LewisHamilton,Mercedes,56,5982,106.82142857142857
+2015-03-29,Malaysia,SebastianVettel,Ferrari,56,6065,108.30357142857143
+2015-03-15,Australia,LewisHamilton,Mercedes,58,5514,95.06896551724138
+2014-11-23,Abu Dhabi,LewisHamilton,Mercedes,55,5942,108.03636363636363
+2014-11-09,Brazil,NicoRosberg,Mercedes,71,5402,76.08450704225352
+2014-11-02,United States,LewisHamilton,Mercedes,56,6004,107.21428571428571
+2014-10-21,Russia,LewisHamilton,Mercedes,53,5510,103.9622641509434
+2014-10-05,Japan,LewisHamilton,Mercedes,44,6703,152.3409090909091
+2014-09-21,Singapore,LewisHamilton,Mercedes,60,7204,120.06666666666666
+2014-09-07,Italy,LewisHamilton,Mercedes,53,4750,89.62264150943396
+2014-08-24,Belgium,DanielRicciardo,Red Bull Racing Renault,44,5076,115.36363636363636
+2014-07-27,Hungary,DanielRicciardo,Red Bull Racing Renault,70,6785,96.92857142857143
+2014-07-20,Germany,NicoRosberg,Mercedes,67,5622,83.91044776119404
+2014-07-06,Great Britain,LewisHamilton,Mercedes,52,8812,169.46153846153845
+2014-06-22,Austria,NicoRosberg,Mercedes,71,5274,74.28169014084507
+2014-06-08,Canada,DanielRicciardo,Red Bull Racing Renault,70,5952,85.02857142857142
+2014-05-25,Monaco,NicoRosberg,Mercedes,78,6567,84.1923076923077
+2014-05-11,Spain,LewisHamilton,Mercedes,66,6065,91.89393939393939
+2014-04-20,China,LewisHamilton,Mercedes,54,5608,103.85185185185185
+2014-04-06,Bahrain,LewisHamilton,Mercedes,57,5982,104.94736842105263
+2014-03-30,Malaysia,LewisHamilton,Mercedes,56,6025,107.58928571428571
+2014-03-16,Australia,NicoRosberg,Mercedes,57,5578,97.85964912280701
+2013-11-24,Brazil,SebastianVettel,Red Bull Racing Renault,71,5556,78.25352112676056
+2013-11-17,United States,SebastianVettel,Red Bull Racing Renault,56,5957,106.375
+2013-11-03,Abu Dhabi,SebastianVettel,Red Bull Racing Renault,55,5886,107.01818181818182
+2013-10-27,India,SebastianVettel,Red Bull Racing Renault,60,5472,91.2
+2013-10-13,Japan,SebastianVettel,Red Bull Racing Renault,53,5209,98.28301886792453
+2013-10-06,South Korea,SebastianVettel,Red Bull Racing Renault,55,6193,112.6
+2013-09-22,Singapore,SebastianVettel,Red Bull Racing Renault,61,7153,117.26229508196721
+2013-09-08,Italy,SebastianVettel,Red Bull Racing Renault,53,4713,88.9245283018868
+2013-08-25,Belgium,SebastianVettel,Red Bull Racing Renault,44,5022,114.13636363636364
+2013-07-28,Hungary,LewisHamilton,Mercedes,70,6149,87.84285714285714
+2013-07-07,Germany,SebastianVettel,Red Bull Racing Renault,60,6074,101.23333333333333
+2013-06-30,Great Britain,NicoRosberg,Mercedes,52,5579,107.28846153846153
+2013-06-09,Canada,SebastianVettel,Red Bull Racing Renault,70,5529,78.98571428571428
+2013-05-26,Monaco,NicoRosberg,Mercedes,78,8272,106.05128205128206
+2013-05-12,Spain,FernandoAlonso,Ferrari,66,5956,90.24242424242425
+2013-04-21,Bahrain,SebastianVettel,Red Bull Racing Renault,57,5760,101.05263157894737
+2013-04-14,China,FernandoAlonso,Ferrari,56,5786,103.32142857142857
+2013-03-24,Malaysia,SebastianVettel,Red Bull Racing Renault,56,5936,106.0
+2013-03-17,Australia,KimiRäikkönen,Lotus Renault,58,5403,93.15517241379311
+2012-11-25,Brazil,JensonButton,McLaren Mercedes,71,6322,89.04225352112677
+2012-11-18,United States,LewisHamilton,McLaren Mercedes,56,5755,102.76785714285714
+2012-11-04,Abu Dhabi,KimiRäikkönen,Lotus Renault,55,6358,115.6
+2012-10-28,India,SebastianVettel,Red Bull Racing Renault,60,5470,91.16666666666667
+2012-10-14,South Korea,SebastianVettel,Red Bull Racing Renault,55,5788,105.23636363636363
+2012-10-07,Japan,SebastianVettel,Red Bull Racing Renault,53,5336,100.67924528301887
+2012-09-23,Singapore,SebastianVettel,Red Bull Racing Renault,59,7226,122.47457627118644
+2012-09-09,Italy,LewisHamilton,McLaren Mercedes,53,4781,90.20754716981132
+2012-09-02,Belgium,JensonButton,McLaren Mercedes,44,5348,121.54545454545455
+2012-07-29,Hungary,LewisHamilton,McLaren Mercedes,69,6065,87.89855072463769
+2012-07-22,Germany,FernandoAlonso,Ferrari,67,5465,81.56716417910448
+2012-07-08,Great Britain,MarkWebber,Red Bull Racing Renault,52,5111,98.28846153846153
+2012-06-24,Europe,FernandoAlonso,Ferrari,57,6256,109.75438596491227
+2012-06-10,Canada,LewisHamilton,McLaren Mercedes,70,5549,79.27142857142857
+2012-05-27,Monaco,MarkWebber,Red Bull Racing Renault,78,6366,81.61538461538461
+2012-05-13,Spain,PastorMaldonado,Williams Renault,66,5949,90.13636363636364
+2012-04-22,Bahrain,SebastianVettel,Red Bull Racing Renault,57,5710,100.17543859649123
+2012-04-15,China,NicoRosberg,Mercedes,56,5786,103.32142857142857
+2012-03-25,Malaysia,FernandoAlonso,Ferrari,56,9891,176.625
+2012-03-18,Australia,JensonButton,McLaren Mercedes,58,5649,97.39655172413794
+2011-11-27,Brazil,MarkWebber,Red Bull Racing Renault,71,5537,77.98591549295774
+2011-11-13,Abu Dhabi,LewisHamilton,McLaren Mercedes,55,5831,106.01818181818182
+2011-10-30,India,SebastianVettel,Red Bull Racing Renault,60,5435,90.58333333333333
+2011-10-16,South Korea,SebastianVettel,Red Bull Racing Renault,55,5881,106.92727272727272
+2011-10-09,Japan,JensonButton,McLaren Mercedes,53,5453,102.88679245283019
+2011-09-25,Singapore,SebastianVettel,Red Bull Racing Renault,61,7146,117.14754098360656
+2011-09-11,Italy,SebastianVettel,Red Bull Racing Renault,53,4846,91.43396226415095
+2011-08-28,Belgium,SebastianVettel,Red Bull Racing Renault,44,5204,118.27272727272727
+2011-07-31,Hungary,JensonButton,McLaren Mercedes,70,6402,91.45714285714286
+2011-07-24,Germany,LewisHamilton,McLaren Mercedes,60,5850,97.5
+2011-07-10,Great Britain,FernandoAlonso,Ferrari,52,5321,102.32692307692308
+2011-06-26,Europe,SebastianVettel,Red Bull Racing Renault,57,5976,104.84210526315789
+2011-06-12,Canada,JensonButton,McLaren Mercedes,70,14679,209.7
+2011-05-29,Monaco,SebastianVettel,Red Bull Racing Renault,78,7778,99.71794871794872
+2011-05-22,Spain,SebastianVettel,Red Bull Racing Renault,66,5943,90.04545454545455
+2011-05-08,Turkey,SebastianVettel,Red Bull Racing Renault,58,5417,93.39655172413794
+2011-04-17,China,LewisHamilton,McLaren Mercedes,56,5818,103.89285714285714
+2011-04-10,Malaysia,SebastianVettel,Red Bull Racing Renault,56,5859,104.625
+2011-03-27,Australia,SebastianVettel,Red Bull Racing Renault,58,5370,92.58620689655173
+2010-11-14,Abu Dhabi,SebastianVettel,RBR Renault,55,5976,108.65454545454546
+2010-11-07,Brazil,SebastianVettel,RBR Renault,71,5591,78.74647887323944
+2010-10-24,South Korea,FernandoAlonso,Ferrari,55,10100,183.63636363636363
+2010-10-10,Japan,SebastianVettel,RBR Renault,53,5427,102.39622641509433
+2010-09-26,Singapore,FernandoAlonso,Ferrari,61,7073,115.95081967213115
+2010-09-12,Italy,FernandoAlonso,Ferrari,53,4584,86.49056603773585
+2010-08-29,Belgium,LewisHamilton,McLaren Mercedes,44,5344,121.45454545454545
+2010-08-01,Hungary,MarkWebber,RBR Renault,70,6065,86.64285714285714
+2010-07-25,Germany,FernandoAlonso,Ferrari,67,5258,78.4776119402985
+2010-07-11,Great Britain,MarkWebber,RBR Renault,52,5078,97.65384615384616
+2010-06-27,Europe,SebastianVettel,RBR Renault,57,6029,105.7719298245614
+2010-06-13,Canada,LewisHamilton,McLaren Mercedes,70,5633,80.47142857142858
+2010-05-30,Turkey,LewisHamilton,McLaren Mercedes,58,5327,91.84482758620689
+2010-05-16,Monaco,MarkWebber,RBR Renault,78,6613,84.78205128205128
+2010-05-09,Spain,MarkWebber,RBR Renault,66,5744,87.03030303030303
+2010-04-18,China,JensonButton,McLaren Mercedes,56,6402,114.32142857142857
+2010-04-04,Malaysia,SebastianVettel,RBR Renault,56,5628,100.5
+2010-03-28,Australia,JensonButton,McLaren Mercedes,58,5616,96.82758620689656
+2010-03-14,Bahrain,FernandoAlonso,Ferrari,49,5960,121.63265306122449
+2009-11-01,Abu Dhabi,SebastianVettel,RBR Renault,55,5643,102.6
+2009-10-18,Brazil,MarkWebber,RBR Renault,71,5543,78.07042253521126
+2009-10-04,Japan,SebastianVettel,RBR Renault,53,5300,100.0
+2009-09-27,Singapore,LewisHamilton,McLaren Mercedes,61,6966,114.19672131147541
+2009-09-13,Italy,RubensBarrichello,Brawn Mercedes,53,4581,86.43396226415095
+2009-08-30,Belgium,KimiRäikkönen,Ferrari,44,5030,114.31818181818181
+2009-08-23,Europe,RubensBarrichello,Brawn Mercedes,57,5751,100.89473684210526
+2009-07-26,Hungary,LewisHamilton,McLaren Mercedes,70,5903,84.32857142857142
+2009-07-12,Germany,MarkWebber,RBR Renault,60,5803,96.71666666666667
+2009-06-21,Great Britain,SebastianVettel,RBR Renault,60,4969,82.81666666666666
+2009-06-07,Turkey,JensonButton,Brawn Mercedes,58,5184,89.37931034482759
+2009-05-24,Monaco,JensonButton,Brawn Mercedes,78,6044,77.48717948717949
+2009-05-10,Spain,JensonButton,Brawn Mercedes,66,5839,88.46969696969697
+2009-04-26,Bahrain,JensonButton,Brawn Mercedes,57,5508,96.63157894736842
+2009-04-19,China,SebastianVettel,RBR Renault,56,7063,126.125
+2009-04-05,Malaysia,JensonButton,Brawn Mercedes,31,199800,6445.1612903225805
+2009-03-29,Australia,JensonButton,Brawn Mercedes,58,5655,97.5
+2008-11-02,Brazil,FelipeMassa,Ferrari,71,5651,79.59154929577464
+2008-10-19,China,LewisHamilton,McLaren Mercedes,56,5517,98.51785714285714
+2008-10-12,Japan,FernandoAlonso,Renault,67,5421,80.91044776119404
+2008-09-28,Singapore,FernandoAlonso,Renault,61,7036,115.34426229508196
+2008-09-14,Italy,SebastianVettel,STR Ferrari,53,5207,98.24528301886792
+2008-09-07,Belgium,FelipeMassa,Ferrari,44,4979,113.1590909090909
+2008-08-24,Europe,FelipeMassa,Ferrari,57,5732,100.56140350877193
+2008-08-03,Hungary,HeikkiKovalainen,McLaren Mercedes,70,5847,83.52857142857142
+2008-07-20,Germany,LewisHamilton,McLaren Mercedes,67,5480,81.7910447761194
+2008-07-06,Great Britain,LewisHamilton,McLaren Mercedes,60,5949,99.15
+2008-06-22,France,FelipeMassa,Ferrari,70,5510,78.71428571428571
+2008-06-08,Canada,RobertKubica,Sauber BMW,70,5784,82.62857142857143
+2008-05-25,Monaco,LewisHamilton,McLaren Mercedes,76,7242,95.28947368421052
+2008-05-11,Turkey,FelipeMassa,Ferrari,58,5209,89.8103448275862
+2008-04-27,Spain,KimiRäikkönen,Ferrari,66,5899,89.37878787878788
+2008-04-06,Bahrain,FelipeMassa,Ferrari,57,5466,95.89473684210526
+2008-03-23,Malaysia,KimiRäikkönen,Ferrari,56,5478,97.82142857142857
+2008-03-16,Australia,LewisHamilton,McLaren Mercedes,58,5690,98.10344827586206
+2007-10-21,Brazil,KimiRäikkönen,Ferrari,71,5295,74.5774647887324
+2007-10-07,China,KimiRäikkönen,Ferrari,56,5878,104.96428571428571
+2007-09-30,Japan,LewisHamilton,McLaren Mercedes,67,7234,107.97014925373135
+2007-09-16,Belgium,KimiRäikkönen,Ferrari,44,4839,109.97727272727273
+2007-09-09,Italy,FernandoAlonso,McLaren Mercedes,53,4717,89.0
+2007-08-26,Turkey,FelipeMassa,Ferrari,58,5202,89.6896551724138
+2007-08-05,Hungary,LewisHamilton,McLaren Mercedes,70,5752,82.17142857142858
+2007-07-22,Europe,FernandoAlonso,McLaren Mercedes,60,7586,126.43333333333334
+2007-07-08,Great Britain,KimiRäikkönen,Ferrari,59,4903,83.10169491525424
+2007-07-01,France,KimiRäikkönen,Ferrari,70,5454,77.91428571428571
+2007-06-17,United States,LewisHamilton,McLaren Mercedes,73,5469,74.91780821917808
+2007-06-10,Canada,LewisHamilton,McLaren Mercedes,70,6251,89.3
+2007-05-27,Monaco,FernandoAlonso,McLaren Mercedes,78,6029,77.2948717948718
+2007-05-13,Spain,FelipeMassa,Ferrari,65,5496,84.55384615384615
+2007-04-15,Bahrain,FelipeMassa,Ferrari,57,5607,98.36842105263158
+2007-04-08,Malaysia,FernandoAlonso,McLaren Mercedes,56,5534,98.82142857142857
+2007-03-18,Australia,KimiRäikkönen,Ferrari,58,5128,88.41379310344827
+2006-10-22,Brazil,FelipeMassa,Ferrari,71,5513,77.64788732394366
+2006-10-08,Japan,FernandoAlonso,Renault,53,5033,94.9622641509434
+2006-10-01,China,MichaelSchumacher,Ferrari,56,5852,104.5
+2006-09-10,Italy,MichaelSchumacher,Ferrari,53,4491,84.73584905660377
+2006-08-27,Turkey,FelipeMassa,Ferrari,58,5331,91.91379310344827
+2006-08-06,Hungary,JensonButton,Honda,70,6740,96.28571428571429
+2006-07-30,Germany,MichaelSchumacher,Ferrari,67,5271,78.67164179104478
+2006-07-16,France,MichaelSchumacher,Ferrari,70,5527,78.95714285714286
+2006-07-02,United States,MichaelSchumacher,Ferrari,73,5675,77.73972602739725
+2006-06-25,Canada,FernandoAlonso,Renault,70,5677,81.1
+2006-06-11,Great Britain,FernandoAlonso,Renault,60,5151,85.85
+2006-05-28,Monaco,FernandoAlonso,Renault,78,6223,79.78205128205128
+2006-05-14,Spain,FernandoAlonso,Renault,66,5181,78.5
+2006-05-07,Europe,MichaelSchumacher,Ferrari,60,5758,95.96666666666667
+2006-04-23,San Marino,MichaelSchumacher,Ferrari,62,5466,88.16129032258064
+2006-04-02,Australia,FernandoAlonso,Renault,57,5667,99.42105263157895
+2006-03-19,Malaysia,GiancarloFisichella,Renault,56,5440,97.14285714285714
+2006-03-12,Bahrain,FernandoAlonso,Renault,57,5386,94.49122807017544
+2005-10-16,China,FernandoAlonso,Renault,56,5993,107.01785714285714
+2005-10-09,Japan,KimiRäikkönen,McLaren Mercedes,53,5342,100.79245283018868
+2005-09-25,Brazil,Juan PabloMontoya,McLaren Mercedes,71,5360,75.49295774647888
+2005-09-11,Belgium,KimiRäikkönen,McLaren Mercedes,44,5401,122.75
+2005-09-04,Italy,Juan PabloMontoya,McLaren Mercedes,53,4468,84.30188679245283
+2005-08-21,Turkey,KimiRäikkönen,McLaren Mercedes,58,5074,87.48275862068965
+2005-07-31,Hungary,KimiRäikkönen,McLaren Mercedes,70,5845,83.5
+2005-07-24,Germany,FernandoAlonso,Renault,67,5188,77.43283582089552
+2005-07-10,Great Britain,Juan PabloMontoya,McLaren Mercedes,60,5069,84.48333333333333
+2005-07-03,France,FernandoAlonso,Renault,70,5482,78.31428571428572
+2005-06-19,United States,MichaelSchumacher,Ferrari,73,5383,73.73972602739725
+2005-06-12,Canada,KimiRäikkönen,McLaren Mercedes,70,5529,78.98571428571428
+2005-05-29,Europe,FernandoAlonso,Renault,59,5506,93.32203389830508
+2005-05-22,Monaco,KimiRäikkönen,McLaren Mercedes,78,6315,80.96153846153847
+2005-05-08,Spain,KimiRäikkönen,McLaren Mercedes,66,5236,79.33333333333333
+2005-04-24,San Marino,FernandoAlonso,Renault,62,5261,84.85483870967742
+2005-04-03,Bahrain,FernandoAlonso,Renault,57,5358,94.0
+2005-03-20,Malaysia,FernandoAlonso,Renault,56,5493,98.08928571428571
+2005-03-06,Australia,GiancarloFisichella,Renault,57,5057,88.71929824561404
+2004-10-24,Brazil,Juan PabloMontoya,Williams BMW,71,5281,74.38028169014085
+2004-10-10,Japan,MichaelSchumacher,Ferrari,53,5066,95.58490566037736
+2004-09-26,China,RubensBarrichello,Ferrari,56,5352,95.57142857142857
+2004-09-12,Italy,RubensBarrichello,Ferrari,53,4518,85.24528301886792
+2004-08-29,Belgium,KimiRäikkönen,McLaren Mercedes,44,5555,126.25
+2004-08-15,Hungary,MichaelSchumacher,Ferrari,70,5726,81.8
+2004-07-25,Germany,MichaelSchumacher,Ferrari,66,5034,76.27272727272727
+2004-07-11,Great Britain,MichaelSchumacher,Ferrari,60,5082,84.7
+2004-07-04,France,MichaelSchumacher,Ferrari,70,5418,77.4
+2004-06-20,United States,MichaelSchumacher,Ferrari,73,6029,82.58904109589041
+2004-06-13,Canada,MichaelSchumacher,Ferrari,70,5304,75.77142857142857
+2004-05-30,Europe,MichaelSchumacher,Ferrari,60,5555,92.58333333333333
+2004-05-23,Monaco,JarnoTrulli,Renault,77,6346,82.41558441558442
+2004-05-09,Spain,MichaelSchumacher,Ferrari,66,5252,79.57575757575758
+2004-04-25,San Marino,MichaelSchumacher,Ferrari,62,5179,83.53225806451613
+2004-04-04,Bahrain,MichaelSchumacher,Ferrari,57,5314,93.2280701754386
+2004-03-21,Malaysia,MichaelSchumacher,Ferrari,56,5467,97.625
+2004-03-07,Australia,MichaelSchumacher,Ferrari,58,5055,87.15517241379311
+2003-10-12,Japan,RubensBarrichello,Ferrari,53,5111,96.43396226415095
+2003-09-28,United States,MichaelSchumacher,Ferrari,73,5615,76.91780821917808
+2003-09-14,Italy,MichaelSchumacher,Ferrari,53,4459,84.13207547169812
+2003-08-24,Hungary,FernandoAlonso,Renault,70,5941,84.87142857142857
+2003-08-03,Germany,Juan PabloMontoya,Williams BMW,67,5328,79.5223880597015
+2003-07-20,Great Britain,RubensBarrichello,Ferrari,60,5317,88.61666666666666
+2003-07-06,France,RalfSchumacher,Williams BMW,70,5449,77.84285714285714
+2003-06-29,Europe,RalfSchumacher,Williams BMW,60,5683,94.71666666666667
+2003-06-15,Canada,MichaelSchumacher,Ferrari,70,5473,78.18571428571428
+2003-06-01,Monaco,Juan PabloMontoya,Williams BMW,78,6139,78.7051282051282
+2003-05-18,Austria,MichaelSchumacher,Ferrari,69,5044,73.10144927536231
+2003-05-04,Spain,MichaelSchumacher,Ferrari,65,5626,86.55384615384615
+2003-04-20,San Marino,MichaelSchumacher,Ferrari,62,5292,85.35483870967742
+2003-04-06,Brazil,GiancarloFisichella,Jordan Ford,54,5477,101.42592592592592
+2003-03-23,Malaysia,KimiRäikkönen,McLaren Mercedes,56,5542,98.96428571428571
+2003-03-09,Australia,DavidCoulthard,McLaren Mercedes,58,5682,97.96551724137932
+2002-10-13,Japan,MichaelSchumacher,Ferrari,53,5219,98.47169811320755
+2002-09-29,United States,RubensBarrichello,Ferrari,73,5467,74.89041095890411
+2002-09-15,Italy,RubensBarrichello,Ferrari,53,4579,86.39622641509433
+2002-09-01,Belgium,MichaelSchumacher,Ferrari,44,4880,110.9090909090909
+2002-08-18,Hungary,RubensBarrichello,Ferrari,77,6109,79.33766233766234
+2002-07-28,Germany,MichaelSchumacher,Ferrari,67,5272,78.68656716417911
+2002-07-21,France,MichaelSchumacher,Ferrari,72,5529,76.79166666666667
+2002-07-07,Great Britain,MichaelSchumacher,Ferrari,60,5505,91.75
+2002-06-23,Europe,RubensBarrichello,Ferrari,60,5707,95.11666666666666
+2002-06-09,Canada,MichaelSchumacher,Ferrari,70,5616,80.22857142857143
+2002-05-26,Monaco,DavidCoulthard,McLaren Mercedes,78,6339,81.26923076923077
+2002-05-12,Austria,MichaelSchumacher,Ferrari,71,5631,79.30985915492958
+2002-04-28,Spain,MichaelSchumacher,Ferrari,65,5429,83.52307692307693
+2002-04-14,San Marino,MichaelSchumacher,Ferrari,62,5350,86.29032258064517
+2002-03-31,Brazil,MichaelSchumacher,Ferrari,71,5503,77.50704225352112
+2002-03-17,Malaysia,RalfSchumacher,Williams BMW,56,5652,100.92857142857143
+2002-03-03,Australia,MichaelSchumacher,Ferrari,58,5736,98.89655172413794
+2001-10-14,Japan,MichaelSchumacher,Ferrari,53,5253,99.11320754716981
+2001-09-30,United States,MikaHakkinen,McLaren Mercedes,73,5562,76.1917808219178
+2001-09-16,Italy,Juan PabloMontoya,Williams BMW,53,4618,87.13207547169812
+2001-09-02,Belgium,MichaelSchumacher,Ferrari,36,4085,113.47222222222223
+2001-08-19,Hungary,MichaelSchumacher,Ferrari,77,6109,79.33766233766234
+2001-07-29,Germany,RalfSchumacher,Williams BMW,45,4697,104.37777777777778
+2001-07-15,Great Britain,MikaHakkinen,McLaren Mercedes,60,5133,85.55
+2001-07-01,France,MichaelSchumacher,Ferrari,72,5615,77.98611111111111
+2001-06-24,Europe,MichaelSchumacher,Ferrari,67,5382,80.32835820895522
+2001-06-10,Canada,RalfSchumacher,Williams BMW,69,5671,82.18840579710145
+2001-05-27,Monaco,MichaelSchumacher,Ferrari,78,6442,82.58974358974359
+2001-05-13,Austria,DavidCoulthard,McLaren Mercedes,71,5265,74.15492957746478
+2001-04-29,Spain,MichaelSchumacher,Ferrari,65,5463,84.04615384615384
+2001-04-15,San Marino,RalfSchumacher,Williams BMW,62,5444,87.80645161290323
+2001-04-01,Brazil,DavidCoulthard,McLaren Mercedes,71,5940,83.66197183098592
+2001-03-18,Malaysia,MichaelSchumacher,Ferrari,55,6454,117.34545454545454
+2001-03-04,Australia,MichaelSchumacher,Ferrari,58,5906,101.82758620689656
+2000-10-22,Malaysia,MichaelSchumacher,Ferrari,56,5754,102.75
+2000-10-08,Japan,MichaelSchumacher,Ferrari,53,5393,101.75471698113208
+2000-09-24,United States,MichaelSchumacher,Ferrari,73,5790,79.31506849315069
+2000-09-10,Italy,MichaelSchumacher,Ferrari,53,5251,99.0754716981132
+2000-08-27,Belgium,MikaHakkinen,McLaren Mercedes,44,5294,120.31818181818181
+2000-08-13,Hungary,MikaHakkinen,McLaren Mercedes,77,6333,82.24675324675324
+2000-07-30,Germany,RubensBarrichello,Ferrari,45,5134,114.08888888888889
+2000-07-16,Austria,MikaHakkinen,McLaren Mercedes,71,5295,74.5774647887324
+2000-07-02,France,DavidCoulthard,McLaren Mercedes,72,5885,81.73611111111111
+2000-06-18,Canada,MichaelSchumacher,Ferrari,69,6072,88.0
+2000-06-04,Monaco,DavidCoulthard,McLaren Mercedes,78,6568,84.2051282051282
+2000-05-21,Europe,MichaelSchumacher,Ferrari,67,6120,91.34328358208955
+2000-05-07,Spain,MikaHakkinen,McLaren Mercedes,65,5635,86.6923076923077
+2000-04-23,Great Britain,DavidCoulthard,McLaren Mercedes,60,5330,88.83333333333333
+2000-04-09,San Marino,MichaelSchumacher,Ferrari,62,5499,88.69354838709677
+2000-03-26,Brazil,MichaelSchumacher,Ferrari,71,5495,77.3943661971831
+2000-03-12,Australia,MichaelSchumacher,Ferrari,58,5641,97.25862068965517
+1999-10-31,Japan,MikaHakkinen,McLaren Mercedes,53,5478,103.35849056603773
+1999-10-17,Malaysia,EddieIrvine,Ferrari,56,5798,103.53571428571429
+1999-09-26,Europe,JohnnyHerbert,Stewart Ford,66,6114,92.63636363636364
+1999-09-12,Italy,Heinz-HaraldFrentzen,Jordan Mugen Honda,53,4622,87.20754716981132
+1999-08-29,Belgium,DavidCoulthard,McLaren Mercedes,44,5143,116.88636363636364
+1999-08-15,Hungary,MikaHakkinen,McLaren Mercedes,77,6383,82.8961038961039
+1999-08-01,Germany,EddieIrvine,Ferrari,45,4918,109.28888888888889
+1999-07-25,Austria,EddieIrvine,Ferrari,71,5292,74.53521126760563
+1999-07-11,Great Britain,DavidCoulthard,McLaren Mercedes,60,5550,92.5
+1999-06-27,France,Heinz-HaraldFrentzen,Jordan Mugen Honda,72,7104,98.66666666666667
+1999-06-13,Canada,MikaHakkinen,McLaren Mercedes,69,6095,88.33333333333333
+1999-05-30,Spain,MikaHakkinen,McLaren Mercedes,65,5653,86.96923076923076
+1999-05-16,Monaco,MichaelSchumacher,Ferrari,78,6571,84.24358974358974
+1999-05-02,San Marino,MichaelSchumacher,Ferrari,62,5624,90.70967741935483
+1999-04-11,Brazil,MikaHakkinen,McLaren Mercedes,72,5763,80.04166666666667
+1999-03-07,Australia,EddieIrvine,Ferrari,57,5701,100.01754385964912
+1998-11-01,Japan,MikaHakkinen,McLaren Mercedes,51,5242,102.7843137254902
+1998-09-27,Luxembourg,MikaHakkinen,McLaren Mercedes,67,5534,82.59701492537313
+1998-09-13,Italy,MichaelSchumacher,Ferrari,53,4629,87.33962264150944
+1998-08-30,Belgium,DamonHill,Jordan Mugen Honda,44,6227,141.52272727272728
+1998-08-16,Hungary,MichaelSchumacher,Ferrari,77,6325,82.14285714285714
+1998-08-02,Germany,MikaHakkinen,McLaren Mercedes,45,4847,107.71111111111111
+1998-07-26,Austria,MikaHakkinen,McLaren Mercedes,71,5444,76.67605633802818
+1998-07-12,Great Britain,MichaelSchumacher,Ferrari,60,6422,107.03333333333333
+1998-06-28,France,MichaelSchumacher,Ferrari,71,5685,80.07042253521126
+1998-06-07,Canada,MichaelSchumacher,Ferrari,69,6057,87.78260869565217
+1998-05-24,Monaco,MikaHakkinen,McLaren Mercedes,78,6683,85.67948717948718
+1998-05-10,Spain,MikaHakkinen,McLaren Mercedes,65,5617,86.41538461538461
+1998-04-26,San Marino,DavidCoulthard,McLaren Mercedes,62,5664,91.35483870967742
+1998-04-12,Argentina,MichaelSchumacher,Ferrari,72,6516,90.5
+1998-03-29,Brazil,MikaHakkinen,McLaren Mercedes,72,5831,80.98611111111111
+1998-03-08,Australia,MikaHakkinen,McLaren Mercedes,58,5505,94.91379310344827
+1997-10-26,Europe,MikaHakkinen,McLaren Mercedes,69,5937,86.04347826086956
+1997-10-12,Japan,MichaelSchumacher,Ferrari,53,5388,101.66037735849056
+1997-09-28,Luxembourg,JacquesVilleneuve,Williams Renault,67,5487,81.8955223880597
+1997-09-21,Austria,JacquesVilleneuve,Williams Renault,71,5255,74.01408450704226
+1997-09-07,Italy,DavidCoulthard,McLaren Mercedes,53,4624,87.24528301886792
+1997-08-24,Belgium,MichaelSchumacher,Ferrari,44,5626,127.86363636363636
+1997-08-10,Hungary,JacquesVilleneuve,Williams Renault,77,6347,82.42857142857143
+1997-07-27,Germany,GerhardBerger,Benetton Renault,45,4859,107.97777777777777
+1997-07-13,Great Britain,JacquesVilleneuve,Williams Renault,59,5281,89.50847457627118
+1997-06-29,France,MichaelSchumacher,Ferrari,72,5930,82.36111111111111
+1997-06-15,Canada,MichaelSchumacher,Ferrari,54,4660,86.29629629629629
+1997-05-25,Spain,JacquesVilleneuve,Williams Renault,64,5435,84.921875
+1997-05-11,Monaco,MichaelSchumacher,Ferrari,62,7205,116.20967741935483
+1997-04-27,San Marino,Heinz-HaraldFrentzen,Williams Renault,62,5460,88.06451612903226
+1997-04-13,Argentina,JacquesVilleneuve,Williams Renault,72,6721,93.34722222222223
+1997-03-30,Brazil,JacquesVilleneuve,Williams Renault,72,5766,80.08333333333333
+1997-03-09,Australia,DavidCoulthard,McLaren Mercedes,58,5428,93.58620689655173
+1996-10-13,Japan,DamonHill,Williams Renault,52,5553,106.78846153846153
+1996-09-22,Portugal,JacquesVilleneuve,Williams Renault,70,6022,86.02857142857142
+1996-09-08,Italy,MichaelSchumacher,Ferrari,53,4663,87.98113207547169
+1996-08-25,Belgium,MichaelSchumacher,Ferrari,44,5295,120.3409090909091
+1996-08-11,Hungary,JacquesVilleneuve,Williams Renault,77,6381,82.87012987012987
+1996-07-28,Germany,DamonHill,Williams Renault,45,4903,108.95555555555555
+1996-07-14,Great Britain,JacquesVilleneuve,Williams Renault,61,5580,91.47540983606558
+1996-06-30,France,DamonHill,Williams Renault,72,5788,80.38888888888889
+1996-06-16,Canada,DamonHill,Williams Renault,69,5763,83.52173913043478
+1996-06-02,Spain,MichaelSchumacher,Ferrari,65,7189,110.6
+1996-05-19,Monaco,OlivierPanis,Ligier Mugen Honda,75,7245,96.6
+1996-05-05,San Marino,DamonHill,Williams Renault,63,5726,90.88888888888889
+1996-04-28,Europe,JacquesVilleneuve,Williams Renault,67,5606,83.67164179104478
+1996-04-07,Argentina,DamonHill,Williams Renault,72,6895,95.76388888888889
+1996-03-31,Brazil,DamonHill,Williams Renault,71,6592,92.84507042253522
+1996-03-10,Australia,DamonHill,Williams Renault,58,5570,96.03448275862068
+1995-11-12,Australia,DamonHill,Williams Renault,81,6555,80.92592592592592
+1995-10-29,Japan,MichaelSchumacher,Benetton Renault,53,5812,109.66037735849056
+1995-10-22,Pacific,MichaelSchumacher,Benetton Renault,83,6529,78.66265060240964
+1995-10-01,Europe,MichaelSchumacher,Benetton Renault,67,5999,89.53731343283582
+1995-09-24,Portugal,DavidCoulthard,Williams Renault,71,6112,86.08450704225352
+1995-09-10,Italy,JohnnyHerbert,Benetton Renault,53,4707,88.81132075471699
+1995-08-27,Belgium,MichaelSchumacher,Benetton Renault,44,5807,131.97727272727272
+1995-08-13,Hungary,DamonHill,Williams Renault,77,6385,82.92207792207792
+1995-07-30,Germany,MichaelSchumacher,Benetton Renault,45,4976,110.57777777777778
+1995-07-16,Great Britain,JohnnyHerbert,Benetton Renault,61,5675,93.0327868852459
+1995-07-02,France,MichaelSchumacher,Benetton Renault,72,5908,82.05555555555556
+1995-06-11,Canada,JeanAlesi,Ferrari,69,6391,92.6231884057971
+1995-05-28,Monaco,MichaelSchumacher,Benetton Renault,78,6791,87.06410256410257
+1995-05-14,Spain,MichaelSchumacher,Benetton Renault,65,5660,87.07692307692308
+1995-04-30,San Marino,DamonHill,Williams Renault,63,6102,96.85714285714286
+1995-04-09,Argentina,DamonHill,Williams Renault,71,6699,94.35211267605634
+1995-03-26,Brazil,MichaelSchumacher,Benetton Renault,71,5914,83.29577464788733
+1994-11-13,Australia,NigelMansell,Williams Renault,81,6471,79.88888888888889
+1994-11-06,Japan,DamonHill,Williams Renault,50,6953,139.06
+1994-10-16,Europe,MichaelSchumacher,Benetton Ford,69,6026,87.33333333333333
+1994-09-25,Portugal,DamonHill,Williams Renault,71,6070,85.49295774647888
+1994-09-11,Italy,DamonHill,Williams Renault,53,4682,88.33962264150944
+1994-08-28,Belgium,DamonHill,Williams Renault,44,5327,121.06818181818181
+1994-08-14,Hungary,MichaelSchumacher,Benetton Ford,77,6480,84.15584415584415
+1994-07-31,Germany,GerhardBerger,Ferrari,45,4957,110.15555555555555
+1994-07-10,Great Britain,DamonHill,Williams Renault,60,5403,90.05
+1994-07-03,France,MichaelSchumacher,Benetton Ford,72,5915,82.15277777777777
+1994-06-12,Canada,MichaelSchumacher,Benetton Ford,69,6271,90.8840579710145
+1994-05-29,Spain,DamonHill,Williams Renault,65,5774,88.83076923076923
+1994-05-15,Monaco,MichaelSchumacher,Benetton Ford,78,6595,84.55128205128206
+1994-05-01,San Marino,MichaelSchumacher,Benetton Ford,58,5308,91.51724137931035
+1994-04-17,Pacific,MichaelSchumacher,Benetton Ford,83,6361,76.63855421686748
+1994-03-27,Brazil,MichaelSchumacher,Benetton Ford,71,5738,80.8169014084507
+1993-11-07,Australia,AyrtonSenna,McLaren Ford,79,6207,78.56962025316456
+1993-10-24,Japan,AyrtonSenna,McLaren Ford,53,6027,113.71698113207547
+1993-09-26,Portugal,MichaelSchumacher,Benetton Ford,71,5566,78.3943661971831
+1993-09-12,Italy,DamonHill,Williams Renault,53,4627,87.30188679245283
+1993-08-29,Belgium,DamonHill,Williams Renault,44,5072,115.27272727272727
+1993-08-15,Hungary,DamonHill,Williams Renault,77,6459,83.88311688311688
+1993-07-25,Germany,AlainProst,Williams Renault,45,4720,104.88888888888889
+1993-07-11,Great Britain,AlainProst,Williams Renault,59,5138,87.08474576271186
+1993-07-04,France,AlainProst,Williams Renault,72,5915,82.15277777777777
+1993-06-13,Canada,AlainProst,Williams Renault,69,5801,84.07246376811594
+1993-05-23,Monaco,AyrtonSenna,McLaren Ford,78,6730,86.28205128205128
+1993-05-09,Spain,AlainProst,Williams Renault,65,5547,85.33846153846154
+1993-04-25,San Marino,AlainProst,Williams Renault,61,5600,91.80327868852459
+1993-04-11,Europe,AyrtonSenna,McLaren Ford,76,6646,87.44736842105263
+1993-03-28,Brazil,AyrtonSenna,McLaren Ford,71,6675,94.01408450704226
+1993-03-14,South Africa,AlainProst,Williams Renault,72,5925,82.29166666666667
+1992-11-08,Australia,GerhardBerger,McLaren Honda,82,6414,78.21951219512195
+1992-10-25,Japan,RiccardoPatrese,Williams Renault,53,5589,105.45283018867924
+1992-09-27,Portugal,NigelMansell,Williams Renault,71,5686,80.08450704225352
+1992-09-13,Italy,AyrtonSenna,McLaren Honda,53,4695,88.58490566037736
+1992-08-30,Belgium,MichaelSchumacher,Benetton Ford,44,5770,131.13636363636363
+1992-08-16,Hungary,AyrtonSenna,McLaren Honda,77,6379,82.84415584415585
+1992-07-26,Germany,NigelMansell,Williams Renault,45,4702,104.4888888888889
+1992-07-12,Great Britain,NigelMansell,Williams Renault,59,5142,87.15254237288136
+1992-07-05,France,NigelMansell,Williams Renault,69,5888,85.33333333333333
+1992-06-14,Canada,GerhardBerger,McLaren Honda,69,5828,84.46376811594203
+1992-05-31,Monaco,AyrtonSenna,McLaren Honda,78,6659,85.37179487179488
+1992-05-17,San Marino,NigelMansell,Williams Renault,60,5320,88.66666666666667
+1992-05-03,Spain,NigelMansell,Williams Renault,65,6970,107.23076923076923
+1992-04-05,Brazil,NigelMansell,Williams Renault,71,5811,81.84507042253522
+1992-03-22,Mexico,NigelMansell,Williams Renault,69,5513,79.89855072463769
+1992-03-01,South Africa,NigelMansell,Williams Renault,72,5805,80.625
+1991-11-03,Australia,AyrtonSenna,McLaren Honda,14,88440,6317.142857142857
+1991-10-20,Japan,GerhardBerger,McLaren Honda,53,5530,104.33962264150944
+1991-09-29,Spain,NigelMansell,Williams Renault,65,5921,91.0923076923077
+1991-09-22,Portugal,RiccardoPatrese,Williams Renault,71,5742,80.87323943661971
+1991-09-08,Italy,NigelMansell,Williams Renault,53,4674,88.18867924528301
+1991-08-25,Belgium,AyrtonSenna,McLaren Honda,44,5237,119.02272727272727
+1991-08-11,Hungary,AyrtonSenna,McLaren Honda,77,6552,85.0909090909091
+1991-07-28,Germany,NigelMansell,Williams Renault,45,4769,105.97777777777777
+1991-07-14,Great Britain,NigelMansell,Williams Renault,59,5255,89.0677966101695
+1991-07-07,France,NigelMansell,Williams Renault,72,5880,81.66666666666667
+1991-06-16,Mexico,RiccardoPatrese,Williams Renault,67,5392,80.4776119402985
+1991-06-02,Canada,NelsonPiquet,Benetton Ford,69,5931,85.95652173913044
+1991-05-12,Monaco,AyrtonSenna,McLaren Honda,78,6782,86.94871794871794
+1991-04-28,San Marino,AyrtonSenna,McLaren Honda,61,5714,93.67213114754098
+1991-03-24,Brazil,AyrtonSenna,McLaren Honda,71,5908,83.21126760563381
+1991-03-10,United States,AyrtonSenna,McLaren Honda,81,7247,89.46913580246914
+1990-11-04,Australia,NelsonPiquet,Benetton Ford,81,6584,81.28395061728395
+1990-10-21,Japan,NelsonPiquet,Benetton Ford,53,5676,107.09433962264151
+1990-09-30,Spain,AlainProst,Ferrari,73,6481,88.78082191780823
+1990-09-23,Portugal,NigelMansell,Ferrari,61,4931,80.8360655737705
+1990-09-09,Italy,AyrtonSenna,McLaren Honda,53,4677,88.24528301886792
+1990-08-26,Belgium,AyrtonSenna,McLaren Honda,44,5191,117.97727272727273
+1990-08-12,Hungary,ThierryBoutsen,Williams Renault,77,6570,85.32467532467533
+1990-07-29,Germany,AyrtonSenna,McLaren Honda,45,4847,107.71111111111111
+1990-07-15,Great Britain,AlainProst,Ferrari,64,4710,73.59375
+1990-07-08,France,AlainProst,Ferrari,80,5609,70.1125
+1990-06-24,Mexico,AlainProst,Ferrari,69,5555,80.5072463768116
+1990-06-10,Canada,AyrtonSenna,McLaren Honda,70,6176,88.22857142857143
+1990-05-27,Monaco,AyrtonSenna,McLaren Honda,78,6766,86.74358974358974
+1990-05-13,San Marino,RiccardoPatrese,Williams Renault,61,5455,89.42622950819673
+1990-03-25,Brazil,AlainProst,Ferrari,71,5841,82.26760563380282
+1990-03-11,United States,AyrtonSenna,McLaren Honda,72,6752,93.77777777777777
+1989-11-05,Australia,ThierryBoutsen,Williams Renault,70,7217,103.1
+1989-10-22,Japan,AlessandroNannini,Benetton Ford,53,5706,107.66037735849056
+1989-10-01,Spain,AyrtonSenna,McLaren Honda,72,6468,89.83333333333333
+1989-09-24,Portugal,GerhardBerger,Ferrari,71,5808,81.80281690140845
+1989-09-10,Italy,AlainProst,McLaren Honda,53,4767,89.94339622641509
+1989-08-27,Belgium,AyrtonSenna,McLaren Honda,44,6054,137.5909090909091
+1989-08-13,Hungary,NigelMansell,Ferrari,77,6578,85.42857142857143
+1989-07-30,Germany,AyrtonSenna,McLaren Honda,45,4903,108.95555555555555
+1989-07-16,Great Britain,AlainProst,McLaren Honda,64,4762,74.40625
+1989-07-09,France,AlainProst,McLaren Honda,80,5909,73.8625
+1989-06-18,Canada,ThierryBoutsen,Williams Renault,69,7284,105.56521739130434
+1989-06-04,United States,AlainProst,McLaren Honda,75,7293,97.24
+1989-05-28,Mexico,AyrtonSenna,McLaren Honda,69,5721,82.91304347826087
+1989-05-07,Monaco,AyrtonSenna,McLaren Honda,77,6813,88.48051948051948
+1989-04-23,San Marino,AyrtonSenna,McLaren Honda,58,5211,89.84482758620689
+1989-03-26,Brazil,NigelMansell,Ferrari,61,5938,97.34426229508196
+1988-11-13,Australia,AlainProst,McLaren Honda,82,6794,82.85365853658537
+1988-10-30,Japan,AyrtonSenna,McLaren Honda,51,5606,109.92156862745098
+1988-10-02,Spain,AlainProst,McLaren Honda,72,6523,90.59722222222223
+1988-09-25,Portugal,AlainProst,McLaren Honda,70,5860,83.71428571428571
+1988-09-11,Italy,GerhardBerger,Ferrari,51,4659,91.3529411764706
+1988-08-28,Belgium,AyrtonSenna,McLaren Honda,43,5280,122.79069767441861
+1988-08-07,Hungary,AyrtonSenna,McLaren Honda,76,7067,92.98684210526316
+1988-07-24,Germany,AyrtonSenna,McLaren Honda,44,5574,126.68181818181819
+1988-07-10,Great Britain,AyrtonSenna,McLaren Honda,65,5596,86.0923076923077
+1988-07-03,France,AlainProst,McLaren Honda,80,5857,73.2125
+1988-06-19,Detroit,AyrtonSenna,McLaren Honda,63,6896,109.46031746031746
+1988-06-12,Canada,AyrtonSenna,McLaren Honda,69,5986,86.7536231884058
+1988-05-29,Mexico,AlainProst,McLaren Honda,67,5415,80.82089552238806
+1988-05-15,Monaco,AlainProst,McLaren Honda,78,7037,90.21794871794872
+1988-05-01,San Marino,AyrtonSenna,McLaren Honda,60,5561,92.68333333333334
+1988-04-03,Brazil,AlainProst,McLaren Honda,60,5766,96.1
+1987-11-15,Australia,GerhardBerger,Ferrari,82,6776,82.63414634146342
+1987-11-01,Japan,GerhardBerger,Ferrari,51,5578,109.37254901960785
+1987-10-18,Mexico,NigelMansell,Williams Honda,63,5184,82.28571428571429
+1987-09-27,Spain,NigelMansell,Williams Honda,72,6552,91.0
+1987-09-20,Portugal,AlainProst,McLaren TAG,70,5823,83.18571428571428
+1987-09-06,Italy,NelsonPiquet,Williams Honda,50,4487,89.74
+1987-08-16,Austria,NigelMansell,Williams Honda,52,4724,90.84615384615384
+1987-08-09,Hungary,NelsonPiquet,Williams Honda,76,7166,94.28947368421052
+1987-07-26,Germany,NelsonPiquet,Williams Honda,44,4885,111.02272727272727
+1987-07-12,Great Britain,NigelMansell,Williams Honda,65,4751,73.0923076923077
+1987-07-05,France,NigelMansell,Williams Honda,80,5823,72.7875
+1987-06-21,Detroit,AyrtonSenna,Lotus Honda,63,6616,105.01587301587301
+1987-05-31,Monaco,AyrtonSenna,Lotus Honda,78,7074,90.6923076923077
+1987-05-17,Belgium,AlainProst,McLaren TAG,43,5223,121.46511627906976
+1987-05-03,San Marino,NigelMansell,Williams Honda,59,5484,92.94915254237289
+1987-04-12,Brazil,AlainProst,McLaren TAG,61,5985,98.11475409836065
+1986-10-26,Australia,AlainProst,McLaren TAG,82,6860,83.65853658536585
+1986-10-12,Mexico,GerhardBerger,Benetton BMW,68,5598,82.32352941176471
+1986-09-21,Portugal,NigelMansell,Williams Honda,70,5841,83.44285714285714
+1986-09-07,Italy,NelsonPiquet,Williams Honda,51,4662,91.41176470588235
+1986-08-17,Austria,AlainProst,McLaren TAG,52,4882,93.88461538461539
+1986-08-10,Hungary,NelsonPiquet,Williams Honda,76,7234,95.1842105263158
+1986-07-27,Germany,NelsonPiquet,Williams Honda,44,4928,112.0
+1986-07-13,Great Britain,NigelMansell,Williams Honda,75,5438,72.50666666666666
+1986-07-06,France,NigelMansell,Williams Honda,80,5839,72.9875
+1986-06-22,Detroit,AyrtonSenna,Lotus Renault,63,6672,105.9047619047619
+1986-06-15,Canada,NigelMansell,Williams Honda,69,6146,89.07246376811594
+1986-05-25,Belgium,NigelMansell,Williams Honda,43,5277,122.72093023255815
+1986-05-11,Monaco,AlainProst,McLaren TAG,78,6941,88.98717948717949
+1986-04-27,San Marino,AlainProst,McLaren TAG,60,5548,92.46666666666667
+1986-04-13,Spain,AyrtonSenna,Lotus Renault,72,6527,90.65277777777777
+1986-03-23,Brazil,NelsonPiquet,Williams Honda,61,5972,97.90163934426229
+1985-11-03,Australia,KekeRosberg,Williams Honda,82,7240,88.29268292682927
+1985-10-19,South Africa,NigelMansell,Williams Honda,75,5302,70.69333333333333
+1985-10-06,Europe,NigelMansell,Williams Honda,75,5578,74.37333333333333
+1985-09-15,Belgium,AyrtonSenna,Lotus Renault,43,5659,131.6046511627907
+1985-09-08,Italy,AlainProst,McLaren TAG,51,4679,91.74509803921569
+1985-08-25,Netherlands,NikiLauda,McLaren TAG,70,5549,79.27142857142857
+1985-08-18,Austria,AlainProst,McLaren TAG,52,4812,92.53846153846153
+1985-08-04,Germany,MicheleAlboreto,Ferrari,67,5731,85.53731343283582
+1985-07-21,Great Britain,AlainProst,McLaren TAG,65,4690,72.15384615384616
+1985-07-07,France,NelsonPiquet,Brabham BMW,53,5506,103.88679245283019
+1985-06-23,Detroit,KekeRosberg,Williams Honda,63,6939,110.14285714285714
+1985-06-16,Canada,MicheleAlboreto,Ferrari,70,6361,90.87142857142857
+1985-05-19,Monaco,AlainProst,McLaren TAG,78,6718,86.12820512820512
+1985-05-05,San Marino,Eliode Angelis,Lotus Renault,60,5675,94.58333333333333
+1985-04-21,Portugal,AyrtonSenna,Lotus Renault,67,7228,107.88059701492537
+1985-04-07,Brazil,AlainProst,McLaren TAG,61,6086,99.77049180327869
+1984-10-21,Portugal,AlainProst,McLaren TAG,70,6071,86.72857142857143
+1984-10-07,Europe,AlainProst,McLaren TAG,67,5713,85.26865671641791
+1984-09-09,Italy,NikiLauda,McLaren TAG,51,4829,94.68627450980392
+1984-08-26,Netherlands,AlainProst,McLaren TAG,71,5841,82.26760563380282
+1984-08-19,Austria,NikiLauda,McLaren TAG,51,4872,95.52941176470588
+1984-08-05,Germany,AlainProst,McLaren TAG,44,5083,115.52272727272727
+1984-07-22,Great Britain,NikiLauda,McLaren TAG,71,5368,75.6056338028169
+1984-07-08,Dallas,KekeRosberg,Williams Honda,67,7282,108.68656716417911
+1984-06-24,Detroit,NelsonPiquet,Brabham BMW,63,6941,110.17460317460318
+1984-06-17,Canada,NelsonPiquet,Brabham BMW,70,6383,91.18571428571428
+1984-06-03,Monaco,AlainProst,McLaren TAG,31,3667,118.29032258064517
+1984-05-20,France,NikiLauda,McLaren TAG,79,5471,69.25316455696202
+1984-05-06,San Marino,AlainProst,McLaren TAG,60,5813,96.88333333333334
+1984-04-29,Belgium,MicheleAlboreto,Ferrari,70,5792,82.74285714285715
+1984-04-07,South Africa,NikiLauda,McLaren TAG,75,5363,71.50666666666666
+1984-03-25,Brazil,AlainProst,McLaren TAG,61,6154,100.88524590163935
+1983-10-15,South Africa,RiccardoPatrese,Brabham BMW,77,5605,72.79220779220779
+1983-09-25,Europe,NelsonPiquet,Brabham BMW,76,5805,76.38157894736842
+1983-09-11,Italy,NelsonPiquet,Brabham BMW,52,4990,95.96153846153847
+1983-08-28,Netherlands,ReneArnoux,Ferrari,72,5921,82.23611111111111
+1983-08-14,Austria,AlainProst,Renault,53,5072,95.69811320754717
+1983-08-07,Germany,ReneArnoux,Ferrari,45,5230,116.22222222222223
+1983-07-16,Great Britain,AlainProst,Renault,67,5079,75.80597014925372
+1983-06-12,Canada,ReneArnoux,Ferrari,70,6511,93.01428571428572
+1983-06-05,Detroit,MicheleAlboreto,Tyrrell Ford,60,6653,110.88333333333334
+1983-05-22,Belgium,AlainProst,Renault,40,5231,130.775
+1983-05-15,Monaco,KekeRosberg,Williams Ford,76,6998,92.07894736842105
+1983-05-01,San Marino,PatrickTambay,Ferrari,60,5872,97.86666666666666
+1983-04-17,France,AlainProst,Renault,54,5653,104.68518518518519
+1983-03-27,USA West,JohnWatson,McLaren Ford,75,6814,90.85333333333334
+1983-03-13,Brazil,NelsonPiquet,Brabham BMW,63,6507,103.28571428571429
+1982-09-25,Las Vegas,MicheleAlboreto,Tyrrell Ford,75,6116,81.54666666666667
+1982-09-12,Italy,ReneArnoux,Renault,52,4945,95.09615384615384
+1982-08-29,Switzerland,KekeRosberg,Williams Ford,80,5561,69.5125
+1982-08-15,Austria,Eliode Angelis,Lotus Ford,53,5102,96.26415094339623
+1982-08-08,Germany,PatrickTambay,Ferrari,45,5245,116.55555555555556
+1982-07-25,France,ReneArnoux,Renault,54,5613,103.94444444444444
+1982-07-18,Great Britain,NikiLauda,McLaren Ford,76,5733,75.4342105263158
+1982-07-03,Netherlands,DidierPironi,Ferrari,72,5883,81.70833333333333
+1982-06-13,Canada,NelsonPiquet,Brabham BMW,70,6399,91.41428571428571
+1982-06-06,Detroit,JohnWatson,McLaren Ford,62,7121,114.85483870967742
+1982-05-23,Monaco,RiccardoPatrese,Brabham Ford,76,6851,90.14473684210526
+1982-05-09,Belgium,JohnWatson,McLaren Ford,70,5741,82.01428571428572
+1982-04-25,San Marino,DidierPironi,Ferrari,60,5798,96.63333333333334
+1982-04-04,USA West,NikiLauda,McLaren Ford,75,7105,94.73333333333333
+1982-03-21,Brazil,AlainProst,Renault,63,6273,99.57142857142857
+1982-01-23,South Africa,AlainProst,Renault,77,5528,71.79220779220779
+1981-10-17,Las Vegas,AlanJones,Williams Ford,75,6249,83.32
+1981-09-27,Canada,JacquesLaffite,Ligier Matra,63,7285,115.63492063492063
+1981-09-13,Italy,AlainProst,Renault,52,5193,99.86538461538461
+1981-08-30,Netherlands,AlainProst,Renault,72,6022,83.63888888888889
+1981-08-16,Austria,JacquesLaffite,Ligier Matra,53,5256,99.16981132075472
+1981-08-02,Germany,NelsonPiquet,Brabham Ford,45,5155,114.55555555555556
+1981-07-18,Great Britain,JohnWatson,McLaren Ford,68,5214,76.67647058823529
+1981-07-05,France,AlainProst,Renault,80,5748,71.85
+1981-06-21,Spain,GillesVilleneuve,Ferrari,80,6395,79.9375
+1981-05-31,Monaco,GillesVilleneuve,Ferrari,76,6863,90.30263157894737
+1981-05-17,Belgium,CarlosReutemann,Williams Ford,54,4591,85.01851851851852
+1981-05-03,San Marino,NelsonPiquet,Brabham Ford,60,6683,111.38333333333334
+1981-04-12,Argentina,NelsonPiquet,Brabham Ford,53,5672,107.01886792452831
+1981-03-29,Brazil,CarlosReutemann,Williams Ford,62,7223,116.5
+1981-03-15,USA West,AlanJones,Williams Ford,80,6641,83.0125
+1980-10-05,USA East,AlanJones,Williams Ford,59,5676,96.20338983050847
+1980-09-28,Canada,AlanJones,Williams Ford,70,6405,91.5
+1980-09-14,Italy,NelsonPiquet,Brabham Ford,60,5887,98.11666666666666
+1980-08-31,Netherlands,NelsonPiquet,Brabham Ford,72,5893,81.84722222222223
+1980-08-17,Austria,Jean-PierreJabouille,Renault,54,5175,95.83333333333333
+1980-08-10,Germany,JacquesLaffite,Ligier Ford,45,4979,110.64444444444445
+1980-07-13,Great Britain,AlanJones,Williams Ford,76,5689,74.85526315789474
+1980-06-29,France,AlanJones,Williams Ford,54,5563,103.01851851851852
+1980-05-18,Monaco,CarlosReutemann,Williams Ford,76,6934,91.23684210526316
+1980-05-04,Belgium,DidierPironi,Ligier Ford,72,5926,82.30555555555556
+1980-03-30,USA West,NelsonPiquet,Brabham Ford,80,6618,82.725
+1980-03-01,South Africa,ReneArnoux,Renault,78,5812,74.51282051282051
+1980-01-27,Brazil,ReneArnoux,Renault,40,6001,150.025
+1980-01-13,Argentina,AlanJones,Williams Ford,53,6204,117.05660377358491
+1979-10-07,USA East,GillesVilleneuve,Ferrari,59,6737,114.1864406779661
+1979-09-30,Canada,AlanJones,Williams Ford,72,6726,93.41666666666667
+1979-09-09,Italy,JodyScheckter,Ferrari,50,4920,98.4
+1979-08-26,Netherlands,AlanJones,Williams Ford,75,6079,81.05333333333333
+1979-08-12,Austria,AlanJones,Williams Ford,54,5258,97.37037037037037
+1979-07-29,Germany,AlanJones,Williams Ford,45,5088,113.06666666666666
+1979-07-14,Great Britain,ClayRegazzoni,Williams Ford,68,5171,76.04411764705883
+1979-07-01,France,Jean-PierreJabouille,Renault,80,5720,71.5
+1979-05-27,Monaco,JodyScheckter,Ferrari,76,6922,91.07894736842105
+1979-05-13,Belgium,JodyScheckter,Ferrari,70,5999,85.7
+1979-04-29,Spain,PatrickDepailler,Ligier Ford,75,5951,79.34666666666666
+1979-04-08,USA West,GillesVilleneuve,Ferrari,80,6625,82.8125
+1979-03-03,South Africa,GillesVilleneuve,Ferrari,78,6109,78.32051282051282
+1979-02-04,Brazil,JacquesLaffite,Ligier Ford,40,6009,150.225
+1979-01-21,Argentina,JacquesLaffite,Ligier Ford,53,5763,108.73584905660377
+1978-10-08,Canada,GillesVilleneuve,Ferrari,70,7069,100.98571428571428
+1978-10-01,USA East,CarlosReutemann,Ferrari,59,6048,102.50847457627118
+1978-09-10,Italy,NikiLauda,Brabham Alfa Romeo,40,4024,100.6
+1978-08-27,Netherlands,MarioAndretti,Lotus Ford,75,6064,80.85333333333334
+1978-08-13,Austria,RonniePeterson,Lotus Ford,54,6081,112.61111111111111
+1978-07-30,Germany,MarioAndretti,Lotus Ford,45,5280,117.33333333333333
+1978-07-16,Great Britain,CarlosReutemann,Ferrari,76,6132,80.6842105263158
+1978-07-02,France,MarioAndretti,Lotus Ford,54,5931,109.83333333333333
+1978-06-17,Sweden,NikiLauda,Brabham Alfa Romeo,70,6060,86.57142857142857
+1978-06-04,Spain,MarioAndretti,Lotus Ford,75,6107,81.42666666666666
+1978-05-21,Belgium,MarioAndretti,Lotus Ford,70,5992,85.6
+1978-05-07,Monaco,PatrickDepailler,Tyrrell Ford,75,6914,92.18666666666667
+1978-04-02,USA West,CarlosReutemann,Ferrari,80,6721,84.0125
+1978-03-04,South Africa,RonniePeterson,Lotus Ford,78,6135,78.65384615384616
+1978-01-29,Brazil,CarlosReutemann,Ferrari,63,6599,104.74603174603175
+1978-01-15,Argentina,MarioAndretti,Lotus Ford,52,5824,112.0
+1977-10-23,Japan,JamesHunt,McLaren Ford,73,5511,75.4931506849315
+1977-10-09,Canada,JodyScheckter,Wolf Ford,80,6000,75.0
+1977-10-02,USA East,JamesHunt,McLaren Ford,59,7103,120.38983050847457
+1977-09-11,Italy,MarioAndretti,Lotus Ford,52,5270,101.34615384615384
+1977-08-28,Netherlands,NikiLauda,Ferrari,75,6105,81.4
+1977-08-14,Austria,AlanJones,Shadow Ford,54,5836,108.07407407407408
+1977-07-31,Germany,NikiLauda,Ferrari,47,5508,117.19148936170212
+1977-07-16,Great Britain,JamesHunt,McLaren Ford,68,5506,80.97058823529412
+1977-07-03,France,MarioAndretti,Lotus Ford,80,5980,74.75
+1977-06-19,Sweden,JacquesLaffite,Ligier Matra,72,6415,89.09722222222223
+1977-06-05,Belgium,GunnarNilsson,Lotus Ford,70,6905,98.64285714285714
+1977-05-22,Monaco,JodyScheckter,Wolf Ford,76,7072,93.05263157894737
+1977-05-08,Spain,MarioAndretti,Lotus Ford,75,6172,82.29333333333334
+1977-04-03,USA West,MarioAndretti,Lotus Ford,80,6695,83.6875
+1977-03-05,South Africa,NikiLauda,Ferrari,78,6141,78.73076923076923
+1977-01-23,Brazil,CarlosReutemann,Ferrari,40,6307,157.675
+1977-01-09,Argentina,JodyScheckter,Wolf Ford,53,6011,113.41509433962264
+1976-10-24,Japan,MarioAndretti,Lotus Ford,73,6238,85.45205479452055
+1976-10-10,USA East,JamesHunt,McLaren Ford,59,6160,104.40677966101696
+1976-10-03,Canada,JamesHunt,McLaren Ford,80,6009,75.1125
+1976-09-12,Italy,RonniePeterson,March Ford,52,5435,104.51923076923077
+1976-08-29,Netherlands,JamesHunt,McLaren Ford,75,6292,83.89333333333333
+1976-08-15,Austria,JohnWatson,Penske Ford,54,5407,100.12962962962963
+1976-08-01,Germany,JamesHunt,McLaren Ford,14,6102,435.85714285714283
+1976-07-18,Great Britain,NikiLauda,Ferrari,76,6259,82.35526315789474
+1976-07-04,France,JamesHunt,McLaren Ford,54,6058,112.18518518518519
+1976-06-13,Sweden,JodyScheckter,Tyrrell Ford,72,6413,89.06944444444444
+1976-05-30,Monaco,NikiLauda,Ferrari,78,7191,92.1923076923077
+1976-05-16,Belgium,NikiLauda,Ferrari,70,6173,88.18571428571428
+1976-05-02,Spain,JamesHunt,McLaren Ford,75,6140,81.86666666666666
+1976-03-28,USA West,ClayRegazzoni,Ferrari,80,6798,84.975
+1976-03-06,South Africa,NikiLauda,Ferrari,78,6138,78.6923076923077
+1976-01-25,Brazil,NikiLauda,Ferrari,40,6316,157.9
+1975-10-05,United States,NikiLauda,Ferrari,59,6178,104.71186440677967
+1975-09-07,Italy,ClayRegazzoni,Ferrari,52,4962,95.42307692307692
+1975-08-17,Austria,VittorioBrambilla,March Ford,29,208560,7191.724137931034
+1975-08-03,Germany,CarlosReutemann,Brabham Ford,14,6074,433.85714285714283
+1975-07-19,Great Britain,EmersonFittipaldi,McLaren Ford,56,4925,87.94642857142857
+1975-07-06,France,NikiLauda,Ferrari,54,6018,111.44444444444444
+1975-06-22,Netherlands,JamesHunt,Hesketh Ford,75,6417,85.56
+1975-06-08,Sweden,NikiLauda,Ferrari,80,7158,89.475
+1975-05-25,Belgium,NikiLauda,Ferrari,70,6233,89.04285714285714
+1975-05-11,Monaco,NikiLauda,Ferrari,75,7281,97.08
+1975-04-27,Spain,JochenMass,McLaren Ford,29,154380,5323.448275862069
+1975-03-01,South Africa,JodyScheckter,Tyrrell Ford,78,6196,79.43589743589743
+1975-01-26,Brazil,CarlosPace,Brabham Ford,40,6281,157.025
+1975-01-12,Argentina,EmersonFittipaldi,McLaren Ford,53,5966,112.56603773584905
+1974-10-06,United States,CarlosReutemann,Brabham Ford,59,6021,102.05084745762711
+1974-09-22,Canada,EmersonFittipaldi,McLaren Ford,80,6026,75.325
+1974-09-08,Italy,RonniePeterson,Lotus Ford,52,4976,95.6923076923077
+1974-08-18,Austria,CarlosReutemann,Brabham Ford,54,5324,98.5925925925926
+1974-08-04,Germany,ClayRegazzoni,Ferrari,14,6095,435.35714285714283
+1974-07-20,Great Britain,JodyScheckter,Tyrrell Ford,75,6182,82.42666666666666
+1974-07-07,France,RonniePeterson,Lotus Ford,80,4915,61.4375
+1974-06-23,Netherlands,NikiLauda,Ferrari,75,6180,82.4
+1974-06-09,Sweden,JodyScheckter,Tyrrell Ford,80,7111,88.8875
+1974-05-26,Monaco,RonniePeterson,Lotus Ford,78,7083,90.8076923076923
+1974-05-12,Belgium,EmersonFittipaldi,McLaren Ford,85,6260,73.6470588235294
+1974-04-28,Spain,NikiLauda,Ferrari,84,7229,86.05952380952381
+1974-03-30,South Africa,CarlosReutemann,Brabham Ford,78,6160,78.97435897435898
+1974-01-27,Brazil,EmersonFittipaldi,McLaren Ford,32,5077,158.65625
+1974-01-13,Argentina,DennyHulme,McLaren Ford,53,6062,114.37735849056604
+1973-10-07,United States,RonniePeterson,Lotus Ford,59,6075,102.96610169491525
+1973-09-23,Canada,PeterRevson,McLaren Ford,80,7144,89.3
+1973-09-09,Italy,RonniePeterson,Lotus Ford,55,5357,97.4
+1973-08-19,Austria,RonniePeterson,Lotus Ford,54,5328,98.66666666666667
+1973-08-05,Germany,JackieStewart,Tyrrell Ford,14,6123,437.35714285714283
+1973-07-29,Netherlands,JackieStewart,Tyrrell Ford,72,5952,82.66666666666667
+1973-07-14,Great Britain,PeterRevson,McLaren Ford,67,5358,79.97014925373135
+1973-07-01,France,RonniePeterson,Lotus Ford,54,6096,112.88888888888889
+1973-06-17,Sweden,DennyHulme,McLaren Ford,80,7006,87.575
+1973-06-03,Monaco,JackieStewart,Tyrrell Ford,78,7064,90.56410256410257
+1973-05-20,Belgium,JackieStewart,Tyrrell Ford,70,6133,87.61428571428571
+1973-04-29,Spain,EmersonFittipaldi,Lotus Ford,75,6498,86.64
+1973-03-03,South Africa,JackieStewart,Tyrrell Ford,79,6191,78.36708860759494
+1973-02-11,Brazil,EmersonFittipaldi,Lotus Ford,40,6235,155.875
+1973-01-28,Argentina,EmersonFittipaldi,Lotus Ford,96,6978,72.6875
+1972-10-08,United States,JackieStewart,Tyrrell Ford,59,6105,103.47457627118644
+1972-09-24,Canada,JackieStewart,Tyrrell Ford,80,6196,77.45
+1972-09-10,Italy,EmersonFittipaldi,Lotus Ford,55,5398,98.14545454545454
+1972-08-13,Austria,EmersonFittipaldi,Lotus Ford,54,5356,99.18518518518519
+1972-07-30,Germany,JackyIckx,Ferrari,14,6132,438.0
+1972-07-15,Great Britain,EmersonFittipaldi,Lotus Ford,76,6470,85.13157894736842
+1972-07-02,France,JackieStewart,Tyrrell Ford,38,6741,177.39473684210526
+1972-06-04,Belgium,EmersonFittipaldi,Lotus Ford,85,6246,73.48235294117647
+1972-05-14,Monaco,Jean-PierreBeltoise,BRM,80,8814,110.175
+1972-05-01,Spain,EmersonFittipaldi,Lotus Ford,90,7421,82.45555555555555
+1972-03-04,South Africa,DennyHulme,McLaren Ford,79,6349,80.36708860759494
+1972-01-23,Argentina,JackieStewart,Tyrrell Ford,95,7078,74.50526315789473
+1971-10-03,United States,FrancoisCevert,Tyrrell Ford,59,6231,105.61016949152543
+1971-09-19,Canada,JackieStewart,Tyrrell Ford,64,6912,108.0
+1971-09-05,Italy,PeterGethin,BRM,55,4692,85.30909090909091
+1971-08-15,Austria,JoSiffert,BRM,54,5423,100.42592592592592
+1971-08-01,Germany,JackieStewart,Tyrrell Ford,12,5355,446.25
+1971-07-17,Great Britain,JackieStewart,Tyrrell Ford,68,5491,80.75
+1971-07-04,France,JackieStewart,Tyrrell Ford,55,6401,116.38181818181818
+1971-06-20,Netherlands,JackyIckx,Ferrari,70,6980,99.71428571428571
+1971-05-23,Monaco,JackieStewart,Tyrrell Ford,80,6741,84.2625
+1971-04-18,Spain,JackieStewart,Tyrrell Ford,75,6543,87.24
+1971-03-06,South Africa,MarioAndretti,Ferrari,79,6455,81.70886075949367
+1970-10-25,Mexico,JackyIckx,Ferrari,65,6808,104.73846153846154
+1970-10-04,United States,EmersonFittipaldi,Lotus Ford,108,7052,65.29629629629629
+1970-09-20,Canada,JackyIckx,Ferrari,90,8478,94.2
+1970-09-06,Italy,ClayRegazzoni,Ferrari,68,5946,87.44117647058823
+1970-08-16,Austria,JackyIckx,Ferrari,60,6137,102.28333333333333
+1970-08-02,Germany,JochenRindt,Lotus Ford,50,6120,122.4
+1970-07-18,Great Britain,JochenRindt,Lotus Ford,80,7022,87.775
+1970-07-05,France,JochenRindt,Lotus Ford,38,6957,183.07894736842104
+1970-06-21,Netherlands,JochenRindt,Lotus Ford,80,6643,83.0375
+1970-06-07,Belgium,PedroRodriguez,BRM,28,5889,210.32142857142858
+1970-05-10,Monaco,JochenRindt,Lotus Ford,80,6876,85.95
+1970-04-19,Spain,JackieStewart,March Ford,90,7858,87.31111111111112
+1970-03-07,South Africa,JackBrabham,Brabham Ford,80,6574,82.175
+1969-10-19,Mexico,DennyHulme,McLaren Ford,65,6848,105.35384615384615
+1969-10-05,United States,JochenRindt,Lotus Ford,108,7076,65.51851851851852
+1969-09-20,Canada,JackyIckx,Brabham Ford,90,7165,79.61111111111111
+1969-09-07,Italy,JackieStewart,Matra Ford,68,5951,87.51470588235294
+1969-08-03,Germany,JackyIckx,Brabham Ford,14,6595,471.07142857142856
+1969-07-19,Great Britain,JackieStewart,Matra Ford,84,6955,82.79761904761905
+1969-07-06,France,JackieStewart,Matra Ford,38,7007,184.39473684210526
+1969-06-21,Netherlands,JackieStewart,Matra Ford,90,7602,84.46666666666667
+1969-05-18,Monaco,GrahamHill,Lotus Ford,80,7019,87.7375
+1969-05-04,Spain,JackieStewart,Matra Ford,90,8213,91.25555555555556
+1969-03-01,South Africa,JackieStewart,Matra Ford,80,6639,82.9875
+1968-11-03,Mexico,GrahamHill,Lotus Ford,65,7003,107.73846153846154
+1968-10-06,United States,JackieStewart,Matra Ford,108,7160,66.29629629629629
+1968-09-22,Canada,DennyHulme,McLaren Ford,90,8831,98.12222222222222
+1968-09-08,Italy,DennyHulme,McLaren Ford,68,6014,88.44117647058823
+1968-08-04,Germany,JackieStewart,Matra Ford,14,8343,595.9285714285714
+1968-07-20,Great Britain,JoSiffert,Lotus Ford,80,7280,91.0
+1968-07-07,France,JackyIckx,Ferrari,60,8740,145.66666666666666
+1968-06-23,Netherlands,JackieStewart,Matra Ford,90,9971,110.78888888888889
+1968-06-09,Belgium,BruceMcLaren,McLaren Ford,28,6002,214.35714285714286
+1968-05-26,Monaco,GrahamHill,Lotus Ford,80,7232,90.4
+1968-05-12,Spain,GrahamHill,Lotus Ford,90,8120,90.22222222222223
+1968-01-01,South Africa,JimClark,Lotus Ford,80,6836,85.45
+1967-10-22,Mexico,JimClark,Lotus Ford,65,7168,110.27692307692308
+1967-10-01,United States,JimClark,Lotus Ford,108,7393,68.45370370370371
+1967-09-10,Italy,JohnSurtees,Honda,68,6225,91.54411764705883
+1967-08-27,Canada,JackBrabham,Brabham Repco,90,9640,107.11111111111111
+1967-08-06,Germany,DennyHulme,Brabham Repco,15,7555,503.6666666666667
+1967-07-15,Great Britain,JimClark,Lotus Ford,80,7165,89.5625
+1967-07-02,France,JackBrabham,Brabham Repco,80,8001,100.0125
+1967-06-18,Belgium,DanGurney,Eagle Weslake,28,6049,216.03571428571428
+1967-06-04,Netherlands,JimClark,Lotus Ford,90,8085,89.83333333333333
+1967-05-07,Monaco,DennyHulme,Brabham Repco,100,9274,92.74
+1967-01-02,South Africa,PedroRodriguez,Cooper Maserati,80,7545,94.3125
+1966-10-23,Mexico,JohnSurtees,Cooper Maserati,65,7595,116.84615384615384
+1966-10-02,United States,JimClark,Lotus BRM,108,7780,72.03703703703704
+1966-09-04,Italy,LudovicoScarfiotti,Ferrari,68,6434,94.61764705882354
+1966-08-07,Germany,JackBrabham,Brabham Repco,15,8823,588.2
+1966-07-24,Netherlands,JackBrabham,Brabham Repco,90,8432,93.68888888888888
+1966-07-16,Great Britain,JackBrabham,Brabham Repco,80,7993,99.9125
+1966-07-03,France,JackBrabham,Brabham Repco,48,6511,135.64583333333334
+1966-06-12,Belgium,JohnSurtees,Ferrari,28,7751,276.82142857142856
+1966-05-22,Monaco,JackieStewart,BRM,100,9190,91.9
+1965-10-24,Mexico,RichieGinther,Honda,65,7712,118.64615384615385
+1965-10-03,United States,GrahamHill,BRM,110,8436,76.69090909090909
+1965-09-12,Italy,JackieStewart,BRM,76,7492,98.57894736842105
+1965-08-01,Germany,JimClark,Lotus Climax,15,7672,511.46666666666664
+1965-07-18,Netherlands,JimClark,Lotus Climax,80,7439,92.9875
+1965-07-10,Great Britain,JimClark,Lotus Climax,80,7525,94.0625
+1965-06-27,France,JimClark,Lotus Climax,40,8078,201.95
+1965-06-13,Belgium,JimClark,Lotus Climax,32,8614,269.1875
+1965-05-30,Monaco,GrahamHill,BRM,100,9459,94.59
+1965-01-01,South Africa,JimClark,Lotus Climax,85,7606,89.48235294117647
+1964-10-25,Mexico,DanGurney,Brabham Climax,65,7790,119.84615384615384
+1964-10-04,United States,GrahamHill,BRM,110,8198,74.52727272727273
+1964-09-06,Italy,JohnSurtees,Ferrari,78,7851,100.65384615384616
+1964-08-23,Austria,LorenzoBandini,Ferrari,105,7578,72.17142857142858
+1964-08-02,Germany,JohnSurtees,Ferrari,15,7924,528.2666666666667
+1964-07-11,Great Britain,JimClark,Lotus Climax,80,8107,101.3375
+1964-06-28,France,DanGurney,Brabham Climax,57,7669,134.5438596491228
+1964-06-14,Belgium,JimClark,Lotus Climax,32,7600,237.5
+1964-05-24,Netherlands,JimClark,Lotus Climax,80,7655,95.6875
+1964-05-10,Monaco,GrahamHill,BRM,100,9679,96.79
+1963-12-28,South Africa,JimClark,Lotus Climax,85,7836,92.18823529411765
+1963-10-27,Mexico,JimClark,Lotus Climax,65,7792,119.87692307692308
+1963-10-06,United States,GrahamHill,BRM,110,8362,76.01818181818182
+1963-09-08,Italy,JimClark,Lotus Climax,86,8659,100.68604651162791
+1963-08-04,Germany,JohnSurtees,Ferrari,15,7986,532.4
+1963-07-20,Great Britain,JimClark,Lotus Climax,82,8049,98.15853658536585
+1963-06-30,France,JimClark,Lotus Climax,53,7854,148.18867924528303
+1963-06-23,Netherlands,JimClark,Lotus Climax,80,7693,96.1625
+1963-06-09,Belgium,JimClark,Lotus Climax,32,8867,277.09375
+1963-05-26,Monaco,GrahamHill,BRM,100,9709,97.09
+1962-12-29,South Africa,GrahamHill,BRM,82,7683,93.6951219512195
+1962-10-07,United States,JimClark,Lotus Climax,100,7633,76.33
+1962-09-16,Italy,GrahamHill,BRM,86,8948,104.04651162790698
+1962-08-05,Germany,GrahamHill,BRM,15,9525,635.0
+1962-07-21,Great Britain,JimClark,Lotus Climax,75,8780,117.06666666666666
+1962-07-08,France,DanGurney,Porsche,54,7655,141.75925925925927
+1962-06-17,Belgium,JimClark,Lotus Climax,32,7652,239.125
+1962-06-03,Monaco,BruceMcLaren,Cooper Climax,100,9989,99.89
+1962-05-20,Netherlands,GrahamHill,BRM,80,7862,98.275
+1961-10-08,United States,InnesIreland,Lotus Climax,100,8025,80.25
+1961-09-10,Italy,PhilHill,Ferrari,43,7393,171.93023255813952
+1961-08-06,Germany,StirlingMoss,Lotus Climax,15,8292,552.8
+1961-07-15,Great Britain,Wolfgangvon Trips,Ferrari,75,9653,128.70666666666668
+1961-07-02,France,GiancarloBaghetti,Ferrari,52,8057,154.94230769230768
+1961-06-18,Belgium,PhilHill,Ferrari,30,7383,246.1
+1961-05-22,Netherlands,Wolfgangvon Trips,Ferrari,75,7312,97.49333333333334
+1961-05-14,Monaco,StirlingMoss,Lotus Climax,100,9950,99.5
+1960-11-20,United States,StirlingMoss,Lotus Climax,75,8932,119.09333333333333
+1960-09-04,Italy,PhilHill,Ferrari,50,8469,169.38
+1960-08-14,Portugal,JackBrabham,Cooper Climax,55,8340,151.63636363636363
+1960-07-16,Great Britain,JackBrabham,Cooper Climax,77,7464,96.93506493506493
+1960-07-03,France,JackBrabham,Cooper Climax,50,7044,140.88
+1960-06-19,Belgium,JackBrabham,Cooper Climax,36,8497,236.02777777777777
+1960-06-06,Netherlands,JackBrabham,Cooper Climax,75,7307,97.42666666666666
+1960-05-30,Indianapolis 500,JimRathmann,Watson Offenhauser,200,12971,64.855
+1960-05-29,Monaco,StirlingMoss,Lotus Climax,100,10425,104.25
+1960-02-07,Argentina,BruceMcLaren,Cooper Climax,80,8269,103.3625
+1959-12-12,United States,BruceMcLaren,Cooper Climax,42,7955,189.4047619047619
+1959-09-13,Italy,StirlingMoss,Cooper Climax,72,7445,103.40277777777777
+1959-08-23,Portugal,StirlingMoss,Cooper Climax,62,7915,127.66129032258064
+1959-08-02,Germany,TonyBrooks,Ferrari,60,7771,129.51666666666668
+1959-07-18,Great Britain,JackBrabham,Cooper Climax,75,9011,120.14666666666666
+1959-07-05,France,TonyBrooks,Ferrari,50,7286,145.72
+1959-05-31,Netherlands,JoBonnier,BRM,75,7526,100.34666666666666
+1959-05-30,Indianapolis 500,RodgerWard,Watson Offenhauser,200,13249,66.245
+1959-05-10,Monaco,JackBrabham,Cooper Climax,100,10551,105.51
+1958-10-19,Morocco,StirlingMoss,Vanwall,53,7755,146.32075471698113
+1958-09-07,Italy,TonyBrooks,Vanwall,70,7427,106.1
+1958-08-24,Portugal,StirlingMoss,Vanwall,50,7887,157.74
+1958-08-03,Germany,TonyBrooks,Vanwall,15,8475,565.0
+1958-07-19,Great Britain,PeterCollins,Ferrari,75,7744,103.25333333333333
+1958-07-06,France,MikeHawthorn,Ferrari,50,7401,148.02
+1958-06-15,Belgium,TonyBrooks,Vanwall,24,5826,242.75
+1958-05-30,Indianapolis 500,JimmyBryan,Epperly Offenhauser,200,13453,67.265
+1958-05-26,Netherlands,StirlingMoss,Vanwall,75,7489,99.85333333333334
+1958-05-18,Monaco,MauriceTrintignant,Cooper Climax,100,10347,103.47
+1958-01-19,Argentina,StirlingMoss,Cooper Climax,80,8373,104.6625
+1957-09-08,Italy,StirlingMoss,Vanwall,87,9303,106.93103448275862
+1957-08-18,Pescara,StirlingMoss,Vanwall,18,10762,597.8888888888889
+1957-08-04,Germany,Juan ManuelFangio,Maserati,22,12638,574.4545454545455
+1957-07-20,Great Britain,TonyBrooks,Vanwall,0,0,
+1957-07-20,Great Britain,StirlingMoss,Vanwall,90,11197,124.41111111111111
+1957-07-07,France,Juan ManuelFangio,Maserati,77,11266,146.3116883116883
+1957-05-30,Indianapolis 500,SamHanks,Epperly Offenhauser,200,13274,66.37
+1957-05-19,Monaco,Juan ManuelFangio,Maserati,105,11412,108.68571428571428
+1957-01-13,Argentina,Juan ManuelFangio,Maserati,100,10855,108.55
+1956-09-02,Italy,StirlingMoss,Maserati,50,8621,172.42
+1956-08-05,Germany,Juan ManuelFangio,Ferrari,22,13123,596.5
+1956-07-14,Great Britain,Juan ManuelFangio,Ferrari,101,10787,106.8019801980198
+1956-07-01,France,PeterCollins,Ferrari,61,9263,151.85245901639345
+1956-06-03,Belgium,PeterCollins,Ferrari,36,9600,266.6666666666667
+1956-05-30,Indianapolis 500,PatFlaherty,Watson Offenhauser,200,14008,70.04
+1956-05-13,Monaco,StirlingMoss,Maserati,100,10832,108.32
+1956-01-22,Argentina,Juan ManuelFangio,Ferrari,98,10803,110.23469387755102
+1956-01-22,Argentina,LuigiMusso,Ferrari,0,0,
+1955-09-11,Italy,Juan ManuelFangio,Mercedes-Benz,50,8704,174.08
+1955-07-16,Great Britain,StirlingMoss,Mercedes-Benz,90,11241,124.9
+1955-06-19,Netherlands,Juan ManuelFangio,Mercedes-Benz,100,10463,104.63
+1955-06-05,Belgium,Juan ManuelFangio,Mercedes-Benz,36,9569,265.80555555555554
+1955-05-30,Indianapolis 500,BobSweikert,Kurtis Kraft Offenhauser,200,14039,70.195
+1955-05-22,Monaco,MauriceTrintignant,Ferrari,100,10689,106.89
+1955-01-16,Argentina,Juan ManuelFangio,Mercedes-Benz,96,10838,112.89583333333333
+1954-10-24,Spain,MikeHawthorn,Ferrari,80,11632,145.4
+1954-09-05,Italy,Juan ManuelFangio,Mercedes-Benz,80,10067,125.8375
+1954-08-22,Switzerland,Juan ManuelFangio,Mercedes-Benz,66,10834,164.15151515151516
+1954-08-01,Germany,Juan ManuelFangio,Mercedes-Benz,22,13545,615.6818181818181
+1954-07-17,Great Britain,Jose FroilanGonzalez,Ferrari,90,10574,117.4888888888889
+1954-07-04,France,Juan ManuelFangio,Mercedes-Benz,61,9767,160.11475409836066
+1954-06-20,Belgium,Juan ManuelFangio,Maserati,36,9882,274.5
+1954-05-31,Indianapolis 500,BillVukovich,Kurtis Kraft Offenhauser,200,13757,68.785
+1954-01-17,Argentina,Juan ManuelFangio,Maserati,87,10855,124.77011494252874
+1953-09-13,Italy,Juan ManuelFangio,Maserati,80,10185,127.3125
+1953-08-23,Switzerland,AlbertoAscari,Ferrari,65,10894,167.6
+1953-08-02,Germany,NinoFarina,Ferrari,18,10945,608.0555555555555
+1953-07-18,Great Britain,AlbertoAscari,Ferrari,90,10200,113.33333333333333
+1953-07-05,France,MikeHawthorn,Ferrari,60,9858,164.3
+1953-06-21,Belgium,AlbertoAscari,Ferrari,36,10110,280.8333333333333
+1953-06-07,Netherlands,AlbertoAscari,Ferrari,90,10415,115.72222222222223
+1953-05-30,Indianapolis 500,BillVukovich,Kurtis Kraft Offenhauser,200,13981,69.905
+1953-01-18,Argentina,AlbertoAscari,Ferrari,97,10864,112.0
+1952-09-07,Italy,AlbertoAscari,Ferrari,80,10245,128.0625
+1952-08-17,Netherlands,AlbertoAscari,Ferrari,90,10408,115.64444444444445
+1952-08-03,Germany,AlbertoAscari,Ferrari,18,11173,620.7222222222222
+1952-07-19,Great Britain,AlbertoAscari,Ferrari,85,9851,115.89411764705882
+1952-07-06,France,AlbertoAscari,Ferrari,77,10800,140.25974025974025
+1952-06-22,Belgium,AlbertoAscari,Ferrari,36,11026,306.27777777777777
+1952-05-30,Indianapolis 500,TroyRuttman,Kuzma Offenhauser,200,13961,69.805
+1952-05-18,Switzerland,PieroTaruffi,Ferrari,62,10906,175.90322580645162
+1951-10-28,Spain,Juan ManuelFangio,Alfa Romeo,70,10014,143.05714285714285
+1951-09-16,Italy,AlbertoAscari,Ferrari,80,9759,121.9875
+1951-07-29,Germany,AlbertoAscari,Ferrari,20,12183,609.15
+1951-07-14,Great Britain,Jose FroilanGonzalez,Ferrari,90,9738,108.2
+1951-07-01,France,Juan ManuelFangio,Alfa Romeo,77,12131,157.54545454545453
+1951-07-01,France,LuigiFagioli,Alfa Romeo,0,0,
+1951-06-17,Belgium,NinoFarina,Alfa Romeo,36,9946,276.27777777777777
+1951-05-30,Indianapolis 500,LeeWallard,Kurtis Kraft Offenhauser,200,14258,71.29
+1951-05-27,Switzerland,Juan ManuelFangio,Alfa Romeo,42,7673,182.6904761904762
+1950-09-03,Italy,NinoFarina,Alfa Romeo,80,10277,128.4625
+1950-07-02,France,Juan ManuelFangio,Alfa Romeo,64,10672,166.75
+1950-06-18,Belgium,Juan ManuelFangio,Alfa Romeo,35,10046,287.0285714285714
+1950-06-04,Switzerland,NinoFarina,Alfa Romeo,42,7373,175.54761904761904
+1950-05-30,Indianapolis 500,JohnnieParsons,Kurtis Kraft Offenhauser,138,10015,72.57246376811594
+1950-05-21,Monaco,Juan ManuelFangio,Alfa Romeo,100,11598,115.98
+1950-05-13,Great Britain,NinoFarina,Alfa Romeo,70,8003,114.32857142857142
