@@ -1,5 +1,7 @@
 ## Files Overview
 
+Web scraped F1 winners data for every GP and created a data warehouse in Snowflake and created EDA visualizations in Snowflake
+
 f1_final_df: CSV file with final version of data scraped from website.
 
 f1_prezi: PDF file with presentation slides. *(I used a platform called Prezi and had some animation in my presentation which can be seen in my presentation video. 
