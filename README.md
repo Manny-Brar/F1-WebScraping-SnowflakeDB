@@ -20,3 +20,10 @@ I completed all the web scraping and data cleaning utilizing python and Beautifu
 Next I connected to the S3 bucket with a Snowflake data warehouse created a database and tables. I utilized SQL to create some visualizations within the Snowflake environment.
 Finally I connected my data warehouse to Tableau and created a simple dashboard of my analysis and exploration to be abale to visualize my findings in more depth.
 
+![Snowflake Data Warehouse](https://github.com/Manny-Brar/F1-WebScraping-SnowflakeDB/blob/main/Snowflake1.jpg)
+
+![Web Scraping Processed Data Frame](https://github.com/Manny-Brar/F1-WebScraping-SnowflakeDB/blob/main/bandicam%202020-10-20%2012-36-06-949.jpg)
+
+![Snowflake Visualization - Most GP Wins](https://github.com/Manny-Brar/F1-WebScraping-SnowflakeDB/blob/main/Most%20Grand%20Prix%20Wins%20by%20Team%20(All-Time)%20.png)
+
+![Tableau Dashboard](https://github.com/Manny-Brar/F1-WebScraping-SnowflakeDB/blob/main/F1_Dash.png)
