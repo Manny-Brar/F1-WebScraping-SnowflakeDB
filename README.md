@@ -4,7 +4,8 @@ Web scraped F1 winners data for every GP and created a data warehouse in Snowfla
 
 f1_final_df: CSV file with final version of data scraped from website.
 
-f1_prezi: PDF file with presentation slides. *(I used a platform called Prezi and had some animation in my presentation which can be seen in my presentation video. 
+f1_prezi: PDF file with presentation slides. 
+*(I used a platform called Prezi and had some animation in my presentation which can be seen in my presentation video. 
 That is why you will see slides repeated in the PDF version)
 
 F1_wbk: Tableau Workbook with a simple dashboard created out my data exploration.
